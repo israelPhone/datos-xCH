@@ -17,26 +17,23 @@ jobs:
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
 
-      - name: Buscar Modelos y Generar Links
+      - name: Generar Lista Directa
         run: |
           echo "#EXTM3U" > lista.m3u
-          # Extraemos las 50 modelos mas populares de la seccion Milk
-          curl -s "https://chaturbate.com/female-cams/milk/" | grep -o 'data-room="[^"]*"' | cut -d'"' -f2 | head -n 50 > auto_modelos.txt
-          
-          while read m; do
-            [ -z "$m" ] && continue
-            echo "Procesando: $m"
+          # Lista de prueba con modelos que suelen estar 24/7
+          for m in "pvt_model" "sweet_sunny" "chat_baby" "luna_bella"; do
+            echo "Buscando link para: $m"
             L=$(yt-dlp --get-url --format "best" "https://chaturbate.com/$m/" 2>/dev/null || echo "")
             if [[ "$L" == http* ]]; then
               echo "#EXTINF:-1, $m" >> lista.m3u
               echo "$L" >> lista.m3u
             fi
-          done < auto_modelos.txt
+          done
 
       - name: Guardar cambios
         run: |
           git config --global user.name "bot-xch"
           git config --global user.email "bot@github.com"
           git add lista.m3u
-          git commit -m "Lista actualizada $(date)" || exit 0
+          git commit -m "Update $(date)" || exit 0
           git push
