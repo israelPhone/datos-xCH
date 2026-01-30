@@ -8,7 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Descargar Repositorio
+        uses: actions/checkout@v4
       
       - name: Instalar yt-dlp
         run: |
@@ -18,21 +19,25 @@ jobs:
       - name: Generar Lista IPTV
         run: |
           echo "#EXTM3U" > lista.m3u
+          sort -u modelos.txt -o modelos.txt
           while IFS= read -r m || [ -n "$m" ]; do
             m=$(echo "$m" | xargs)
             [ -z "$m" ] && continue
-            echo "Buscando link para: $m"
-            L=$(yt-dlp --get-url --format "best" "https://chaturbate.com/$m/" 2>/dev/null || echo "")
+            echo "Verificando: $m"
+            L=$(yt-dlp --get-url --format "best" --quiet "https://chaturbate.com/$m/" 2>/dev/null || echo "")
             if [[ "$L" == http* ]]; then
+              echo "✅ ¡Encontrada!"
               echo "#EXTINF:-1, $m" >> lista.m3u
               echo "$L" >> lista.m3u
+            else
+              echo "❌ Off-line"
             fi
           done < modelos.txt
 
-      - name: Guardar cambios
+      - name: Guardar Cambios en GitHub
         run: |
-          git config --global user.name "Bot-xCH"
+          git config --global user.name "bot-xch"
           git config --global user.email "bot@github.com"
-          git add lista.m3u
-          git commit -m "Lista actualizada $(date)" || exit 0
+          git add modelos.txt lista.m3u
+          git commit -m "Lista actualizada $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push
