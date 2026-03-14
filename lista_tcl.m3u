@@ -1,116 +1,218 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Favoritas", 3KAM_AMAZONIAN (1080p)
-https://edge18-fra.live.mmcdn.com/live-hls/amlst:3kam_amazonian-sd-e4d034618f9ae8e4a7805963c87ba58bfda951e7e59f3caa3798ca343a558ea7_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", _GENESYS (1080p)
-https://edge12-mad.live.mmcdn.com/live-hls/amlst:_genesys-sd-3a5d70780181e7be0726966b60a7fa8510e00eba745df687e2cbd6aa412bc7f7_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", _PAMELA_SAENZ05 (1080p)
-https://edge13-mad.live.mmcdn.com/live-hls/amlst:_pamela_saenz05-sd-665250e7a99b0dac0c72020178e78a00e142fded9c5a2011bb220286b0ef6bd8_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", _TIMELESS_PARADOX (1080p)
-https://edge11-mad.live.mmcdn.com/live-hls/amlst:_timeless_paradox-sd-b64fc2c360fbe3766481538a2861d6a1cfed04711e260ba60c2c98b99f0d520c_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", _TOKYO01 (1080p)
-https://edge8-mad.live.mmcdn.com/live-hls/amlst:_tokyo01-sd-a856f6f4938d72030f68c5b2910cb1c601b401a976343536aec4088328b37574_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", _WITCH__ (1080p)
-https://edge25-fra.live.mmcdn.com/live-hls/amlst:_witch__-sd-b87bbce46d271da60889f1bce7560bac07bb80034529789dc31fb7411bdd8b06_trns_h264/playlist.m3u8?quality=1080p
+https://edge22-mad.live.mmcdn.com/live-hls/amlst:3kam_amazonian-sd-e4d034618f9ae8e4a7805963c87ba58bfda951e7e59f3caa3798ca343a558ea7_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", ABBY_RASCHELL (1080p)
-https://edge17-mad.live.mmcdn.com/live-hls/amlst:abby_raschell-sd-7ecfb893850d338085caf6b9dee730e354f24d6b53afc6fe954c47dd39d514cd_trns_h264/playlist.m3u8?quality=1080p
+https://edge10-ams.live.mmcdn.com/live-hls/amlst:abby_raschell-sd-7ecfb893850d338085caf6b9dee730e354f24d6b53afc6fe954c47dd39d514cd_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", ADARA_AA (1080p)
 https://edge7-mxp.live.mmcdn.com/live-hls/amlst:adara_aa-sd-51d88efc47cde7ea48a6914fbe41914e370c87f57fc88561bf8d27d2989483b5_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", ADELINEMUR (1080p)
-https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.adelinemur.01KKNVB4RJNP1STEMXJ4E2NDTT/llhls.m3u8?quality=1080p
+https://edge23-mad.live.mmcdn.com/live-hls/amlst:adelinemur-sd-e0dda583d93a8ccb04f2448021caa3f6b08a4f970ba2e96709b6d9b34c9b58c6_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", AFTONBUNKERS (1080p)
 https://edge15-mad.live.mmcdn.com/live-hls/amlst:aftonbunkers-sd-57ef5fdbd41ebbd7ffb047280956f1421a788e354565d566522c3b57efd689ad_trns_h264/playlist.m3u8?quality=1080p
 
-#EXTINF:-1 group-title="Favoritas", AISHAROUHI (1080p)
-https://edge21-fra.live.mmcdn.com/live-hls/amlst:aisharouhi-sd-cf6e26fbc720be61118d0faf76357443e6cdc12ce21f22f3f33add6616f39419_trns_h264/playlist.m3u8?quality=1080p
-
 #EXTINF:-1 group-title="Favoritas", ALEX_DREAMS_ (1080p)
-https://edge14-ams.live.mmcdn.com/live-hls/amlst:alex_dreams_-sd-3f7a3d05f1ea70651c8438f8b90343aba89370e843be4958adbcff2c3a6745ca_trns_h264/playlist.m3u8?quality=1080p
+https://edge26-fra.live.mmcdn.com/live-hls/amlst:alex_dreams_-sd-3f7a3d05f1ea70651c8438f8b90343aba89370e843be4958adbcff2c3a6745ca_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", ALICE_PINKYS (1080p)
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:alice_pinkys-sd-cd5a8731ba83b1c614f218da6ef9e3891376e1c9ad1fffb1afca21f51c1ab744_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", ALLAYAH (1080p)
 https://edge20-mad.live.mmcdn.com/live-hls/amlst:allayah-sd-1f0db5fae93f4649dbda2d1348494ec498cb0a15a06a0cbad48fb2a5a0d40093_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", AMYLAS (1080p)
-https://edge26-fra.live.mmcdn.com/live-hls/amlst:amylas-sd-a3b76bdd44d8669fbd10d0f9b70643bfb58e1447723d424b0d984318860190e4_trns_h264/playlist.m3u8?quality=1080p
+https://edge14-mad.live.mmcdn.com/live-hls/amlst:amylas-sd-956eb105bc6f9cfd8e7d52ea3292f49fa4f0aa53dd9cb65d7bdacec2ddbcade6_trns_h264/playlist.m3u8?quality=1080p
 
-#EXTINF:-1 group-title="Favoritas", ANGELITA_SUCCESS (1080p)
-https://edge18-fra.live.mmcdn.com/live-hls/amlst:angelita_success-sd-3c16cbf8d80f66af74992f8faeeba852d567672e45776fdb085f4475be18e101_trns_h264/playlist.m3u8?quality=1080p
+#EXTINF:-1 group-title="Favoritas", AMY_QUEEN7 (1080p)
+https://edge6-fra.live.mmcdn.com/live-hls/amlst:amy_queen7-sd-a8e36de2e97a4296e41aadd752984deb02b7a424a14a51d1d8be3e16a54d024a_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", ANGI_SOUSXX3 (1080p)
-https://edge12-ams.live.mmcdn.com/live-hls/amlst:angi_sousxx3-sd-6c908095f92cac7c67957cda9f44a320c605c38265ccd8f58167332f02413db8_trns_h264/playlist.m3u8?quality=1080p
+https://edge5-fra.live.mmcdn.com/live-hls/amlst:angi_sousxx3-sd-5a225acc72b523479556e6075bbb3aeb4d3388fc356c1adf490b136c4c1e3afe_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", ANNA_SIX (1080p)
-https://edge15-mad.live.mmcdn.com/live-hls/amlst:anna_six-sd-e891f555fe1618504741dbce4739c3034702c4299f06ef534ba72de55e97522a_trns_h264/playlist.m3u8?quality=1080p
+https://edge9-ams.live.mmcdn.com/live-hls/amlst:anna_six-sd-e891f555fe1618504741dbce4739c3034702c4299f06ef534ba72de55e97522a_trns_h264/playlist.m3u8?quality=1080p
 
-#EXTINF:-1 group-title="Favoritas", ANNABELLEGRON (1080p)
-https://edge12-rtm.live.mmcdn.com/live-hls/amlst:annabellegron-sd-ca5be7747a149e9bb3a2b67525187a01886a09b8321736382ee8886a6ceadd22_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", ANNY54784 (1080p)
-https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.anny54784.01KKN6XWBY1CPZYQ54A816947V/llhls.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", ANTONELLA_WIILD (1080p)
-https://edge14-mad.live.mmcdn.com/live-hls/amlst:antonella_wiild-sd-bb82581f0219e819e233af00d4d3791c904d7908fa6a1cc73fff5b3aad02bd57_trns_h264/playlist.m3u8?quality=1080p
+#EXTINF:-1 group-title="Favoritas", ANNI_LOVELY (1080p)
+https://edge5-fra.live.mmcdn.com/live-hls/amlst:anni_lovely-sd-8e6fc01cc9c6bdd2073fa1434aea30962b90ce65058455e89845db07688ef375_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", APOTEOSIS_ (1080p)
-https://edge14-ams.live.mmcdn.com/live-hls/amlst:apoteosis_-sd-791dd1d3b258972d47a54a8873d2e9fa37c55a8a5237f5d448d01ecac60e1680_trns_h264/playlist.m3u8?quality=1080p
+https://edge20-mad.live.mmcdn.com/live-hls/amlst:apoteosis_-sd-791dd1d3b258972d47a54a8873d2e9fa37c55a8a5237f5d448d01ecac60e1680_trns_h264/playlist.m3u8?quality=1080p
 
-#EXTINF:-1 group-title="Favoritas", ARIELLATESKA (1080p)
-https://edge11-mad.live.mmcdn.com/live-hls/amlst:ariellateska-sd-70eee00ecb004b4717804e24ee552859d3163186aedf8f716f23686b6b68bcf3_trns_h264/playlist.m3u8?quality=1080p
+#EXTINF:-1 group-title="Favoritas", BEAMAYER (1080p)
+https://edge10-mad.live.mmcdn.com/live-hls/amlst:beamayer-sd-74b3b1d5d44e223feb50aa23064abf279626aa20e2b683b6f1da99d3c98629f9_trns_h264/playlist.m3u8?quality=1080p
 
-#EXTINF:-1 group-title="Favoritas", AURORAHOFFMAN (1080p)
-https://edge7-rtm.live.mmcdn.com/live-hls/amlst:aurorahoffman-sd-bf57d8fa0fabb58421cdf7e741504cf49563915a895e371c3cd6b91c9c94f4f9_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", AWESOME_JOLIE (1080p)
-https://edge5-fra.live.mmcdn.com/live-hls/amlst:awesome_jolie-sd-293febdea7742947bc40ccbe126e2036b85a0e2f044ec21f8102bea0a4e9c874_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", BIKINI_NIKI__ (1080p)
-https://edge16-mad.live.mmcdn.com/live-hls/amlst:bikini_niki__-sd-3354ae3dbfa5b1ee6907b4f8041d5f1fcb596bd999908ad351a7c0586ef0e9b1_trns_h264/playlist.m3u8?quality=1080p
+#EXTINF:-1 group-title="Favoritas", BLUEE_HAZELL (1080p)
+https://edge14-mxp.live.mmcdn.com/live-hls/amlst:bluee_hazell-sd-f6adc925f94c78fa19ff3be1f7ea649256be915fa1ec0fe128eb090e394dac4b_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", BOOBZILLA_ (1080p)
-https://edge23-mad.live.mmcdn.com/live-hls/amlst:boobzilla_-sd-606b6a01a46026173b9bd26e4ae409ee66ced5dd4550e14572dc8d7bd6102a2f_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", BRANDEEHEROUT (1080p)
-https://edge16-ams.live.mmcdn.com/live-hls/amlst:brandeeherout-sd-5803712298518cb091d9984ba01d8931d324b2f4175eadca27b2c435b7fd3dc3_trns_h264/playlist.m3u8?quality=1080p
+https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.boobzilla_.01KKNZ07GK1F2WVFNWEARAK66G/llhls.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", CASSIEEVANSS (1080p)
-https://edge25-fra.live.mmcdn.com/live-hls/amlst:cassieevanss-sd-9aa77270c1202711ef7f10f6d2d0823d7923ff472f73672062532fc90eb833c4_trns_h264/playlist.m3u8?quality=1080p
+https://edge13-mad.live.mmcdn.com/live-hls/amlst:cassieevanss-sd-bf9057e09a473902bd7680811917aa5cde824d1e25dec304a189a0176cfc3a0b_trns_h264/playlist.m3u8?quality=1080p
 
-#EXTINF:-1 group-title="Favoritas", CATA__GUTIERREZ_ (1080p)
-https://edge19-mad.live.mmcdn.com/live-hls/amlst:cata__gutierrez_-sd-3b1d65195d297f449362022678632f87770ab2025cb32fbb1d752a4eec84e61b_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", CHARLOTTE_HARRIZ (1080p)
-https://edge7-mad.live.mmcdn.com/live-hls/amlst:charlotte_harriz-sd-3cfdc1c0368750b4c370afbbbf5b5b796aa3be4d796691b40ba4273aa317cf37_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", CHERRY_FALLS (1080p)
-https://edge6-ams.live.mmcdn.com/live-hls/amlst:cherry_falls-sd-dc2b5f6bbddc1b69b77f8f9e3ebabdcaaef0efd8287676b89aa4e7000aa4de01_trns_h264/playlist.m3u8?quality=1080p
+#EXTINF:-1 group-title="Favoritas", CHARLOTTELEMKE (1080p)
+https://edge13-mad.live.mmcdn.com/live-hls/amlst:charlottelemke-sd-1e042a5357085622a3b03c62729afdf832c4c9b58680a653ff295c4c59a17002_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", CHERY_LADY22 (1080p)
-https://edge8-mad.live.mmcdn.com/live-hls/amlst:chery_lady22-sd-58f8bbf28ac5577a9a262d987aba232ce81b7bd8c42680a0adf8b8bc09f61417_trns_h264/playlist.m3u8?quality=1080p
-
-#EXTINF:-1 group-title="Favoritas", CHRISTAL_CUTEE (1080p)
-https://edge20-mad.live.mmcdn.com/live-hls/amlst:christal_cutee-sd-5043ab998e992ae5dcfc40498f2da83ce3be1856f39b4c77bc78486fffced5b6_trns_h264/playlist.m3u8?quality=1080p
+https://edge14-fra.live.mmcdn.com/live-hls/amlst:chery_lady22-sd-58f8bbf28ac5577a9a262d987aba232ce81b7bd8c42680a0adf8b8bc09f61417_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", CINACANDY (1080p)
 https://edge13-mad.live.mmcdn.com/live-hls/amlst:cinacandy-sd-c7b275323d164cd0aa62486f4f4de8219ef9ea77ee2b58d8b0ed6d715936e331_trns_h264/playlist.m3u8?quality=1080p
 
+#EXTINF:-1 group-title="Favoritas", CLARALOLLIPOP (1080p)
+https://edge10-mad.live.mmcdn.com/live-hls/amlst:claralollipop-sd-c1188c4f1ebd6a20bf4516f901c4bba6b0e2a41081eaa6112a667966df16a148_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", CONNYLORET (1080p)
+https://edge18-fra.live.mmcdn.com/live-hls/amlst:connyloret-sd-cdd7a537350517a7f9cb6e003b1cfc08b6260f064a915e56a35242f504a5eee1_trns_h264/playlist.m3u8?quality=1080p
+
 #EXTINF:-1 group-title="Favoritas", COUPLE_GOLD69 (1080p)
-https://edge8-mxp.live.mmcdn.com/live-hls/amlst:couple_gold69-sd-e3836e4b6fbb804dc140bd64b3c17b5460c0a39c110d1b5f7448932f0eac6ccb_trns_h264/playlist.m3u8?quality=1080p
+https://edge11-mad.live.mmcdn.com/live-hls/amlst:couple_gold69-sd-e3836e4b6fbb804dc140bd64b3c17b5460c0a39c110d1b5f7448932f0eac6ccb_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", CREAMPIENACIA (1080p)
-https://edge22-mad.live.mmcdn.com/live-hls/amlst:creampienacia-sd-32486c23d18daca9e5de9e9c79ab5cce97d16af1ca3412379cf0e31612bf85cc_trns_h264/playlist.m3u8?quality=1080p
+https://edge22-mad.live.mmcdn.com/live-hls/amlst:creampienacia-sd-49503272f0a6f96a41db382f208e8e3d87a639e9a40d4cfecddc6d7c83ad88a4_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", CRISTAL__HOT_1 (1080p)
+https://edge15-mad.live.mmcdn.com/live-hls/amlst:cristal__hot_1-sd-4b2d6bcbef60a3b55fc631302a6b147ef3d07ec5433987cbb8b66371463e275e_trns_h264/playlist.m3u8?quality=1080p
 
 #EXTINF:-1 group-title="Favoritas", CRISTINA_BLUE21 (1080p)
 https://edge16-mad.live.mmcdn.com/live-hls/amlst:cristina_blue21-sd-343edb409bd32b722e9ddc3024ab34821d87141911488c7232cc699d8472673c_trns_h264/playlist.m3u8?quality=1080p
 
-#EXTINF:-1 group-title="Favoritas", CRYSTAL_ANGELLS (1080p)
-https://edge11-mad.live.mmcdn.com/live-hls/amlst:crystal_angells-sd-a99baed786eacf3a81d761a4a9d8952188d7a7d04ffb8229d0f9405acbaf081e_trns_h264/playlist.m3u8?quality=1080p
+#EXTINF:-1 group-title="Favoritas", DAHLIABROWNIEE (1080p)
+https://edge22-mad.live.mmcdn.com/live-hls/amlst:dahliabrowniee-sd-51e1bfed91de14ba82690ad428407138cb107b13a636a536ebdb885884dfb6e3_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", DALILA2ARAB (1080p)
+https://edge6-fra.live.mmcdn.com/live-hls/amlst:dalila2arab-sd-403d72c01841ddccdaa1056c26091029e668238a58074ab757b720aa01533190_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", DANIELLAVAS (1080p)
+https://edge13-fra.live.mmcdn.com/live-hls/amlst:daniellavas-sd-b7f9e93974dc7b20a155d1c5ca5fb59043311cb716fa9578c9bebf6a206819c5_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", DANNA__ORTIZ (1080p)
+https://edge9-mad.live.mmcdn.com/live-hls/amlst:danna__ortiz-sd-f28c9fcfed1d5def2b0fb9b3d1e0b77f2e5da335c75f2fa61ae2ece49f878ebe_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", DIDIACTIVE (1080p)
+https://edge9-mad.live.mmcdn.com/live-hls/amlst:didiactive-sd-d535e62d2e55cd16e992fdc360202c76f3889c35ac854200636aa05af27660dd_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", PAFOSSTAR
+https://edge7-mad.live.mmcdn.com/live-hls/amlst:pafosstar-sd-51cd0293a05b9000d672151ad86d5e9401d63587541ae94765bd82fbf88e25be_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", PATRICIAKEYS
+https://edge15-mad.live.mmcdn.com/live-hls/amlst:patriciakeys-sd-216a1bfbc829bdcaba1c91fe9a1b1763a4718a981edf46b70471996df02dd4b4_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", PERSINAKY
+https://edge6-mad.live.mmcdn.com/live-hls/amlst:persinaky-sd-a0f002c7dd173466f25d787e492de4c5f79abfa3d4c55c46046feffbb79f7d80_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", PETITES_PERLES
+https://edge17-mad.live.mmcdn.com/live-hls/amlst:petites_perles-sd-2f7c69c6eec6e2011a675eb06cc391a64ddeb4795a4d7b1cfa1cf9660af3072a_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", POCAHONTAS_MCRY
+https://edge10-mxp.live.mmcdn.com/live-hls/amlst:pocahontas_mcry-sd-87360ac28729b7311939cd6e5296126e88a145898ea05580594b5da037c25307_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", POP__EYE
+https://edge6-mad.live.mmcdn.com/live-hls/amlst:pop__eye-sd-9ed09c2edfedba2095e16d32ab10e0f403892132223fa44cdeea8efbf709f266_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", PRINCESS_LADYLILA
+https://edge11-mad.live.mmcdn.com/live-hls/amlst:princess_ladylila-sd-4662a9a9a41af7a9b00ceda33079f163cd22aa3a4bb494693d4b665961277c7d_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", RAZOR_CLAW
+https://edge22-mad.live.mmcdn.com/live-hls/amlst:razor_claw-sd-880616117ca70ebdd5ff2f5a5f62592e44279a9dbc90d792ed04e764fdf032ee_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", REYNIRI
+https://edge11-mad.live.mmcdn.com/live-hls/amlst:reyniri-sd-a757c66cbae304bcbec3ac427036e99a3c805abfcebce671d206711ae774ea10_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", ROXANBAHOTTT
+https://edge14-mad.live.mmcdn.com/live-hls/amlst:roxanbahottt-sd-be1d795bace6bd7f19184ac647661f526f8f193857a386f0db4435e054b935ca_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", ROXY_CLARK
+https://edge24-mad.live.mmcdn.com/live-hls/amlst:roxy_clark-sd-eb0c96a88db50d058f0beb8756573b89cc44287706795d8db78dd03680e3a830_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SABRINA_SHARK
+https://edge9-mxp.live.mmcdn.com/live-hls/amlst:sabrina_shark-sd-25bc11ce245db5c6c5b0a62ca10720ef080f03a03b427ca1fae29ce62315c4a5_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SAMANTARAMOOS
+https://edge23-mad.live.mmcdn.com/live-hls/amlst:samantaramoos-sd-873c465cf5583f6f201daae7a8f724d3f723cfedc8dca8804ee83c9c1a5b2bbc_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SARA_ROZZE
+https://edge19-fra.live.mmcdn.com/live-hls/amlst:sara_rozze-sd-e7b3ecc0fe82c2984e9c154815d4a2d052a972522da643766fddd9ba72cb7c21_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SCARLETH_SWANN
+https://edge17-ams.live.mmcdn.com/live-hls/amlst:scarleth_swann-sd-ac3d28bbd157d216ee18dfee886dd14328ef088b59c176b5cb16d38842b0d66d_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SELLAPINK
+https://edge10-fra.live.mmcdn.com/live-hls/amlst:sellapink-sd-dbedc1d350aa1db514e31696febfe48dc4d0d87fdd211cff76228e4a182fc9ae_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SEXYCUTEGIRS
+https://edge24-mad.live.mmcdn.com/live-hls/amlst:sexycutegirs-sd-f94fe8949b36a1de50fbc438ba1bda44ed4b10e6a5a02689bbbc555ac624cd1b_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SHEYLABAKERR
+https://edge7-mad.live.mmcdn.com/live-hls/amlst:sheylabakerr-sd-598023b62f51dbc03c3f3634257c05d7e66ca4f97a0b83aefd214780aa2419a0_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SHINY_LILY
+https://edge7-ams.live.mmcdn.com/live-hls/amlst:shiny_lily-sd-d5962db91f42922e1e60b0c02ae63ce48f97d39f9c8da057b341ab487f08e99c_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SHOPIAGARCIA_
+https://edge23-mad.live.mmcdn.com/live-hls/amlst:shopiagarcia_-sd-52923ec543d0b31277daa5036a37dc7763cbcee60acf9a909b67020b0cc2d3e4_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SHOW_MUST_GOON
+https://edge11-mxp.live.mmcdn.com/live-hls/amlst:show_must_goon-sd-90cf44093b18c7c77b413bbdb622db80fe138001920791c6fd35bdd29336b1ca_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SIRIAMASHA
+https://edge9-mxp.live.mmcdn.com/live-hls/amlst:siriamasha-sd-aa13bf955f26a316e9dc3a646b676c21f423b78a9f2bcab7fdc3859a3f7fce0c_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SLADKOESOLNISHKO
+https://edge6-mad.live.mmcdn.com/live-hls/amlst:sladkoesolnishko-sd-ae638327df6a0001bd8bb795ff02511e6672525cd9d3dca9b91bcb7e9046d109_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SLUTTY_PERVERT
+https://edge24-mad.live.mmcdn.com/live-hls/amlst:slutty_pervert-sd-b8fe8d1b27d73a5c4c522a69901d04dcdfbfbf007b05fef3d21c9077eceb2fe9_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SOPHIEE_SMITH
+https://edge5-fra.live.mmcdn.com/live-hls/amlst:sophiee_smith-sd-bc2a39a960bb144ebc7c5660b33402ad79d11deb357716a18bfdd34e027a244e_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", SOP_HIE
+https://edge23-fra.live.mmcdn.com/live-hls/amlst:sop_hie-sd-c6fa3005ce454428fe094c3d514da6d99f7dd9597b916a334986665c3bf343a2_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", STUNNINGBOOBS
+https://edge20-mad.live.mmcdn.com/live-hls/amlst:stunningboobs-sd-d6e416a8d99ec0da5670d289582d608da3a15e22657cf754783595fb9c39d656_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", THEPAM_BOOBS
+https://edge6-mad.live.mmcdn.com/live-hls/amlst:thepam_boobs-sd-7437fa5c2dc3279535de9924b66f95d6bef186fd8c02da9524855d76c16b1b02_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", TIFFANYFOX_1
+https://edge14-mxp.live.mmcdn.com/live-hls/amlst:tiffanyfox_1-sd-31db041b3480046326981dfcbb0a6848efab17e5a8c2842f4b13cc26d1ab212a_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", TOMIE_SAN
+https://edge6-mad.live.mmcdn.com/live-hls/amlst:tomie_san-sd-c6d4a86eb53e6a8e5dbdb9bf270b6f6bd7bd6bfc0199f167dddfec48c01a9993_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", TORI_THE_WITCH
+https://edge19-mad.live.mmcdn.com/live-hls/amlst:tori_the_witch-sd-13772908c181375009b4bb6cb5b12dd8bf1d838dea73885166594676dc953960_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", TOXIC_LINA
+https://edge18-mxp.live.mmcdn.com/live-hls/amlst:toxic_lina-sd-716c804668aa8497df415c49089b30a6b146a838aa1fa2070d2d74cd79a70465_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", VANANDJUANI
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:vanandjuani-sd-d95c804a2022fea4d566bd6710d053fea467fd13d19edc9d5e73b413c3e65fa5_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", VICTTORIAMOON_1
+https://edge15-mxp.live.mmcdn.com/live-hls/amlst:victtoriamoon_1-sd-601c5f853f25d93a8ebee557a1756d2a2dd6eb9837e2d74beac7f48eb8576fc4_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", XCLUSIVESECRETS
+https://edge9-mad.live.mmcdn.com/live-hls/amlst:xclusivesecrets-sd-ae7fda2b49ea6ae027a8612139184da9e5bf8149e228937fa40f892273c1f823_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", YOUR_POISON_GIRL
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:your_poison_girl-sd-726b1ae4bbdda1b374ea09c69e38594a49bae7e675c02e3353f0eca6e9486310_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", ZARITHA_LI
+https://edge18-fra.live.mmcdn.com/live-hls/amlst:zaritha_li-sd-93e3675fc39b457114d5f3e5beaa663be6d464f523e2ac3d7e3a10d64176b194_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", _PAMELA_SAENZ05 (1080p)
+https://edge13-mad.live.mmcdn.com/live-hls/amlst:_pamela_saenz05-sd-665250e7a99b0dac0c72020178e78a00e142fded9c5a2011bb220286b0ef6bd8_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", _TIMELESS_PARADOX (1080p)
+https://edge10-fra.live.mmcdn.com/live-hls/amlst:_timeless_paradox-sd-b64fc2c360fbe3766481538a2861d6a1cfed04711e260ba60c2c98b99f0d520c_trns_h264/playlist.m3u8?quality=1080p
+
+#EXTINF:-1 group-title="Favoritas", _WITCH__ (1080p)
+https://edge25-fra.live.mmcdn.com/live-hls/amlst:_witch__-sd-b87bbce46d271da60889f1bce7560bac07bb80034529789dc31fb7411bdd8b06_trns_h264/playlist.m3u8?quality=1080p
 
