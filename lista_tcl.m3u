@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ONLINE", AAAAAMY_1
-https://edge29-ams.live.mmcdn.com/live-hls/amlst:aaaaamy_1-sd-fb213fa5285ccfad7bcaf4768b21756282ca6e7395a6cd77906b307ae1b6b668_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", ABOGAILMAARTIN
 https://edge17-mad.live.mmcdn.com/live-hls/amlst:abogailmaartin-sd-9f89f3e216bc7aed4aeb4aeb5d66b3dda7f9e7e81f88612fd88661e91ef0ec56_trns_h264/playlist.m3u8
 
@@ -10,22 +7,19 @@ https://edge17-mad.live.mmcdn.com/live-hls/amlst:abogailmaartin-sd-9f89f3e216bc7
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.abrilmiller_vc.01KMTVJ93W5CJWNB8NSED7HK3Q/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ACID_JUICE
-https://edge15-fra.live.mmcdn.com/live-hls/amlst:acid_juice-sd-07be5e4e042c6aa39cfa50dea2d38b0cc882bc2b7218182a8568e5d0e1258401_trns_h264/playlist.m3u8
+https://edge24-mad.live.mmcdn.com/live-hls/amlst:acid_juice-sd-07be5e4e042c6aa39cfa50dea2d38b0cc882bc2b7218182a8568e5d0e1258401_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ACIDDROLL
-https://edge9-mad.live.mmcdn.com/live-hls/amlst:aciddroll-sd-0de4d4c976fa3177e6902945c58a9d2a2a8ba13d1be4fb1503bed7a465893530_trns_h264/playlist.m3u8
+https://edge16-ams.live.mmcdn.com/live-hls/amlst:aciddroll-sd-0de4d4c976fa3177e6902945c58a9d2a2a8ba13d1be4fb1503bed7a465893530_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ADARA_LEE
 https://edge7-mad.live.mmcdn.com/live-hls/amlst:adara_lee-sd-7ce69a5ad81b69a787c3cbe09be4bbbfc3f617f38171c11a703e776b3d58963e_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ALAIASMILE_
-https://edge16-mad.live.mmcdn.com/live-hls/amlst:alaiasmile_-sd-d9590193ded63a35a100290138d58b7e251c54efe8e0b501138fd3785103bc42_trns_h264/playlist.m3u8
+https://edge22-fra.live.mmcdn.com/live-hls/amlst:alaiasmile_-sd-d9590193ded63a35a100290138d58b7e251c54efe8e0b501138fd3785103bc42_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", ALAIIA_ROSSE
-https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.alaiia_rosse.01KMVCR3CJKCD6WZ54BNFGXC4B/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", ALESKA_DOLLX
-https://edge24-fra.live.mmcdn.com/live-hls/amlst:aleska_dollx-sd-efde7b976963d09160d76e30faac86f9bf084271b5f29a990c650c48331f503f_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="ONLINE", ALESIA02
+https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.alesia02.01KMVGZ4QGSPGNJHTT0661QFDK/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ALESSAFROST_
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.alessafrost_.01KMTWZQ80XSHAJ8S5Y881995B/llhls.m3u8
@@ -37,13 +31,10 @@ https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.alessaromero.01KMV0E8XAK
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.alexa_candy_18.01KMVF6ZWKQWH09T3RMNCYZMVH/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ALEXHOE_
-https://edge26-ams.live.mmcdn.com/live-hls/amlst:alexhoe_-sd-4fbc3f25d90ead89ee1bd3602d60c0ef035dd0eb0f00287dcf29cbbec67a242c_trns_h264/playlist.m3u8
+https://edge6-mad.live.mmcdn.com/live-hls/amlst:alexhoe_-sd-4fbc3f25d90ead89ee1bd3602d60c0ef035dd0eb0f00287dcf29cbbec67a242c_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", AMABELLA_W
 https://edge22-mad.live.mmcdn.com/live-hls/amlst:amabella_w-sd-886a3712eceaa22f1531e6364ca4a13d2222b808a0f3093496735587ba666997_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", AMADAMAR
-https://edge17-mad.live.mmcdn.com/live-hls/amlst:amadamar-sd-ad4259c121b4b6b24c1c6d27af07115487c032cd44ee0fa7c99ca67c86db11f0_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", AMAIAROJAS7
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.amaiarojas7.01KMVBE61F7HHGNZRR3AV9GCZF/llhls.m3u8
@@ -51,17 +42,23 @@ https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.amaiarojas7.01KMVBE61F7
 #EXTINF:-1 group-title="ONLINE", AMARAYASBEL
 https://edge24-mad.live.mmcdn.com/live-hls/amlst:amarayasbel-sd-3130b93b0c017b0bdadd9d47d22ac6c36c6ad3a49f7d50015d0f0c56fe1e22b4_trns_h264/playlist.m3u8
 
+#EXTINF:-1 group-title="ONLINE", AMAYA_AKI_
+https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.amaya_aki_.01KMVFCH03PPDJCJXC2AV5E949/llhls.m3u8
+
 #EXTINF:-1 group-title="ONLINE", AMBAR_DEVON
-https://edge19-mad.live.mmcdn.com/live-hls/amlst:ambar_devon-sd-80055ed73d8f60fd8c54bb0bc3246df1e765e367bd5c1f5e5cf87f0863734e05_trns_h264/playlist.m3u8
+https://edge8-ams.live.mmcdn.com/live-hls/amlst:ambar_devon-sd-80055ed73d8f60fd8c54bb0bc3246df1e765e367bd5c1f5e5cf87f0863734e05_trns_h264/playlist.m3u8
+
+#EXTINF:-1 group-title="ONLINE", AMELYAMANN
+https://edge8-ams.live.mmcdn.com/live-hls/amlst:amelyamann-sd-37f4a2b2bdc2086eb65160ffbe8ba18e40e60ae5b968aea9f92043a1904f6aaf_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", AMI_KATANA
-https://edge24-mad.live.mmcdn.com/live-hls/amlst:ami_katana-sd-3100ba3c87760af544ce6b228f73ccddf24d550ba341b75fba8257f3ec3f3ccc_trns_h264/playlist.m3u8
+https://edge23-fra.live.mmcdn.com/live-hls/amlst:ami_katana-sd-3100ba3c87760af544ce6b228f73ccddf24d550ba341b75fba8257f3ec3f3ccc_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ANABEL054
-https://edge25-fra.live.mmcdn.com/live-hls/amlst:anabel054-sd-2cc1ed393c0f9e77c0ba6373e6673a6aab0164545bdd3ee561b6a679fbee1b6a_trns_h264/playlist.m3u8
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:anabel054-sd-2cc1ed393c0f9e77c0ba6373e6673a6aab0164545bdd3ee561b6a679fbee1b6a_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ANAIS_AS
-https://edge8-mxp.live.mmcdn.com/live-hls/amlst:anais_as-sd-cea620aaa913e3b5154c2beabde48424d95d8d4e3ec85e77c65d0f4c90431374_trns_h264/playlist.m3u8
+https://edge20-ams.live.mmcdn.com/live-hls/amlst:anais_as-sd-cea620aaa913e3b5154c2beabde48424d95d8d4e3ec85e77c65d0f4c90431374_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ANAWORLD69
 https://edge6-mad.live.mmcdn.com/live-hls/amlst:anaworld69-sd-0496ca3704e26af0dea61cab259af146ae7a132f0a91b6547e81f09e6af5a819_trns_h264/playlist.m3u8
@@ -69,20 +66,29 @@ https://edge6-mad.live.mmcdn.com/live-hls/amlst:anaworld69-sd-0496ca3704e26af0de
 #EXTINF:-1 group-title="ONLINE", ANDREA_DUQUE97
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.andrea_duque97.01KMV2EMPYHH1CQHRHDT7SZR3T/llhls.m3u8
 
+#EXTINF:-1 group-title="ONLINE", ANDREA_SVEL
+https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.andrea_svel.01KMVH0S4J90DMN4XT0QQ077F6/llhls.m3u8
+
+#EXTINF:-1 group-title="ONLINE", ANDREABIGBOOBS23
+https://edge17-fra.live.mmcdn.com/live-hls/amlst:andreabigboobs23-sd-e626ef703e7e6be8ac335624ab74b121c1a3d146b73cf1af489cdcc563418e16_trns_h264/playlist.m3u8
+
+#EXTINF:-1 group-title="ONLINE", ANGELICA_CROSS
+https://edge23-mad.live.mmcdn.com/live-hls/amlst:angelica_cross-sd-4518bbab6566c306f1affcfc26ba6fc46df6abd07f98400ccaf0f0a1f3b733d2_trns_h264/playlist.m3u8
+
 #EXTINF:-1 group-title="ONLINE", ANGELITA_SUCCESS
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.angelita_success.01KMV2NFK9STY99EQ6YQP6A2XX/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ANGIE_BIGBOOBS
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.angie_bigboobs.01KMVAZAC10RYKG91MTDA0Z38R/llhls.m3u8
 
+#EXTINF:-1 group-title="ONLINE", ANN__W
+https://edge15-mad.live.mmcdn.com/live-hls/amlst:ann__w-sd-e6d839683b9d9f749f529a69a2e26f894efee7fba7c87dcb76997767797f4d6f_trns_h264/playlist.m3u8
+
 #EXTINF:-1 group-title="ONLINE", ANNAKELLERGO
-https://edge20-mad.live.mmcdn.com/live-hls/amlst:annakellergo-sd-898718e638e0d3175189acd2e812e54bbc2cb511c0ea7c4e3969ae9182627c09_trns_h264/playlist.m3u8
+https://edge26-fra.live.mmcdn.com/live-hls/amlst:annakellergo-sd-898718e638e0d3175189acd2e812e54bbc2cb511c0ea7c4e3969ae9182627c09_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ANNE_JULIENNE
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.anne_julienne.01KMVAVJ6PYJD56CNMTBAETZ7T/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", ANTONELLA_SILVA
-https://edge29-ams.live.mmcdn.com/live-hls/amlst:antonella_silva-sd-dca866c964529cf28d3f51772709364ba1d1fad9998b5f6001fbea4f7b7661d3_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ANURICBRINY
 https://edge17-ams.live.mmcdn.com/live-hls/amlst:anuricbriny-sd-749860f035462ffdd6c0d213af4bf88841f7860707950d1a172254c103e230c7_trns_h264/playlist.m3u8
@@ -91,25 +97,25 @@ https://edge17-ams.live.mmcdn.com/live-hls/amlst:anuricbriny-sd-749860f035462ffd
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.anyi_sweet_titss.01KMV26VBKEDSX44YPQ4F3G5FF/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ARABELLA_STONE
-https://edge16-mad.live.mmcdn.com/live-hls/amlst:arabella_stone-sd-0dc06c8f56315ddf21f60d993a7fef5ce26ecf9ae967dc18279dc96a91adbb98_trns_h264/playlist.m3u8
+https://edge17-ams.live.mmcdn.com/live-hls/amlst:arabella_stone-sd-0dc06c8f56315ddf21f60d993a7fef5ce26ecf9ae967dc18279dc96a91adbb98_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ARIANA_ZC_
-https://edge29-ams.live.mmcdn.com/live-hls/amlst:ariana_zc_-sd-38ae4e5c771039ac1b675c67bcb7bd7abed1ef4969c2e8094231e1f2810b08d3_trns_h264/playlist.m3u8
+https://edge12-mad.live.mmcdn.com/live-hls/amlst:ariana_zc_-sd-38ae4e5c771039ac1b675c67bcb7bd7abed1ef4969c2e8094231e1f2810b08d3_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ASHELYDAINII
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.ashelydainii.01KMVB8N6QFV7ZPRQSRDN3J590/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ASHLEY_BLACK6
-https://edge24-mad.live.mmcdn.com/live-hls/amlst:ashley_black6-sd-8358bd50ff29ca89950d6a147b4973470db5993e854d0874b3013dcee2d3ea9d_trns_h264/playlist.m3u8
+https://edge25-fra.live.mmcdn.com/live-hls/amlst:ashley_black6-sd-8358bd50ff29ca89950d6a147b4973470db5993e854d0874b3013dcee2d3ea9d_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ASHTON_HEIDI
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.ashton_heidi.01KMVD2YPS8S7FDZZ23P6B5XTZ/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", AYLEN_DARKMOOR
-https://edge16-fra.live.mmcdn.com/live-hls/amlst:aylen_darkmoor-sd-9dd5a9f996e07b589c5037ce2fa9ce77532b0b8d473de7863e866e14f71e73c1_trns_h264/playlist.m3u8
+https://edge8-mad.live.mmcdn.com/live-hls/amlst:aylen_darkmoor-sd-9dd5a9f996e07b589c5037ce2fa9ce77532b0b8d473de7863e866e14f71e73c1_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", _BAMBY_BABY_
-https://edge12-mad.live.mmcdn.com/live-hls/amlst:_bamby_baby_-sd-13077fe586dc7d5a3738de4c6e67815cad67535f628f9ac683321d0a18412354_trns_h264/playlist.m3u8
+https://edge22-mad.live.mmcdn.com/live-hls/amlst:_bamby_baby_-sd-13077fe586dc7d5a3738de4c6e67815cad67535f628f9ac683321d0a18412354_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", BANG_JANG
 https://edge6-mad.live.mmcdn.com/live-hls/amlst:bang_jang-sd-bca207fa497448086039885e4d6b972d253798cf0baf8cfa89d7a6ed370e8abd_trns_h264/playlist.m3u8
@@ -117,29 +123,23 @@ https://edge6-mad.live.mmcdn.com/live-hls/amlst:bang_jang-sd-bca207fa49744808603
 #EXTINF:-1 group-title="ONLINE", BARBARA_PURPLE
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.barbara_purple.01KMVD7PJQ3P961QFQPTA9NE27/llhls.m3u8
 
-#EXTINF:-1 group-title="ONLINE", BELOVEDKHLLOE
-https://edge9-mad.live.mmcdn.com/live-hls/amlst:belovedkhlloe-sd-74fde859f5c60d573aa7bc07b02e35f75c3b7117dc8f6d4c790412ff18beb52f_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", BIG_TITS_IN_YOUR_FACE
-https://edge15-ams.live.mmcdn.com/live-hls/amlst:big_tits_in_your_face-sd-a934268258c24b876eebf5c61fede98a117a993dbf81b580d8f68f96193fdfff_trns_h264/playlist.m3u8
+https://edge21-fra.live.mmcdn.com/live-hls/amlst:big_tits_in_your_face-sd-a934268258c24b876eebf5c61fede98a117a993dbf81b580d8f68f96193fdfff_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", BIGBOOBSROSE
 https://edge16-ams.live.mmcdn.com/live-hls/amlst:bigboobsrose-sd-8ae386c232cdb8f5ef4d2fa4d8eccdaf2800e272a2d4536ab6029d1fda4b9e46_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", BLOW2JOB_LAT
-https://edge25-fra.live.mmcdn.com/live-hls/amlst:blow2job_lat-sd-59b86a05fc09976f741d4b9dab72e90787aa5864f7496734a3eb3a0050867d1e_trns_h264/playlist.m3u8
+https://edge24-mad.live.mmcdn.com/live-hls/amlst:blow2job_lat-sd-59b86a05fc09976f741d4b9dab72e90787aa5864f7496734a3eb3a0050867d1e_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", BOMBANERAA
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.bombaneraa.01KMV22MGWNF98YGS8MKZFE534/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", BULL_COCK_
-https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.bull_cock_.01KMVEZY1ZSEY0KCP0ZV7399FG/llhls.m3u8
+https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.bull_cock_.01KMVH8VS0S5MPK70Y3GC4EMZF/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", BUSH_WOMAN
-https://edge12-mad.live.mmcdn.com/live-hls/amlst:bush_woman-sd-d95db12fa439f202994d354467cf35a3ab6c2df0f91079699aadbcd2176431f1_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", _BUSTYLUCIANAA_
-https://edge23-fra.live.mmcdn.com/live-hls/amlst:_bustylucianaa_-sd-8e8df1bf386bfe904346ddbba64891c1523c2c44aee34e13c77d3e404131ab1f_trns_h264/playlist.m3u8
+https://edge19-fra.live.mmcdn.com/live-hls/amlst:bush_woman-sd-d95db12fa439f202994d354467cf35a3ab6c2df0f91079699aadbcd2176431f1_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", CANDY_CRUSH99
 https://edge6-ams.live.mmcdn.com/live-hls/amlst:candy_crush99-sd-2170496f018964bf628a0767fdab8c2ff56bc9612f55958c7994b530bb589580_trns_h264/playlist.m3u8
@@ -148,10 +148,10 @@ https://edge6-ams.live.mmcdn.com/live-hls/amlst:candy_crush99-sd-2170496f018964b
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.candy_feett.01KMTYFNJW9TEB757G6YSRT9PD/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", CELESTE_RODRIGUEZ_
-https://edge22-mad.live.mmcdn.com/live-hls/amlst:celeste_rodriguez_-sd-128c23a1c672047a5ab45c6cfedea39b3a2f96a974c7856ee633a2153aa708fe_trns_h264/playlist.m3u8
+https://edge22-fra.live.mmcdn.com/live-hls/amlst:celeste_rodriguez_-sd-128c23a1c672047a5ab45c6cfedea39b3a2f96a974c7856ee633a2153aa708fe_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", CHANTALSEMENOVA2023
-https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.chantalsemenova2023.01KMV17C1FQZV8VK5MHFM18TA4/llhls.m3u8
+https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.chantalsemenova2023.01KMVH4Q9C4B5CYVPZ4ABV7BZR/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", CHEE_CHA
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.chee_cha.01KMVCP59VX7Y9YVW20536HDR3/llhls.m3u8
@@ -160,22 +160,19 @@ https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.chee_cha.01KMVCP59VX7Y9Y
 https://edge7-mad.live.mmcdn.com/live-hls/amlst:cinacandy-sd-b4d5624e660fb73c6ce5bcf737f2653d92c84f31b4fa864bc3ba5f7c7d020400_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", CIRCE_L
-https://edge25-fra.live.mmcdn.com/live-hls/amlst:circe_l-sd-572aab5bc4f56b163954ad737d0ab91353a7798398f8ad8ed5bac6132dc25627_trns_h264/playlist.m3u8
+https://edge15-mad.live.mmcdn.com/live-hls/amlst:circe_l-sd-572aab5bc4f56b163954ad737d0ab91353a7798398f8ad8ed5bac6132dc25627_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", CLARALOLLIPOP
-https://edge9-mad.live.mmcdn.com/live-hls/amlst:claralollipop-sd-b29cde15531546850a5fdb21156196a4e0f1a091c495be4af48b38e84c147528_trns_h264/playlist.m3u8
+https://edge23-fra.live.mmcdn.com/live-hls/amlst:claralollipop-sd-d6437a13f703e0f4003cdc52ead374049b1c2d6c159166825e5c267b35bf6f1c_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", COUPLE_OF_YOUR_DREAMS_
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.couple_of_your_dreams_.01KMV771JAFWCWV633V6GYSA3V/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", CRISTINA_AZNAR
-https://edge26-ams.live.mmcdn.com/live-hls/amlst:cristina_aznar-sd-c6f4c744aacf4976964115956e5ba64f65102b28cc8d3dc2a953a8a0492cb688_trns_h264/playlist.m3u8
+https://edge21-fra.live.mmcdn.com/live-hls/amlst:cristina_aznar-sd-2d635c75a5872bbca50cd9ce8cc990668b8a85268ff406e5d590fa24e1fc261f_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", DAKOTADESIRE_10
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.dakotadesire_10.01KMV26ZZ8BRP2A292CSHDEA6B/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", DALILA_SKY
-https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.dalila_sky.01KMTSPZQTE1RX0K0245X6J1AC/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", DANIARAMIREZ
 https://edge22-fra.live.mmcdn.com/live-hls/amlst:daniaramirez-sd-68bc3294c1ac8fc44196bad2f049c19f39b39e9813ec46c2f1c7b381c2a5a148_trns_h264/playlist.m3u8
@@ -187,10 +184,10 @@ https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.danii_xoxo.01KMV90J0KD9P
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.divetagrace.01KMV5QEN611SDXANSZ0G428WK/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", DOLYCONOR
-https://edge25-fra.live.mmcdn.com/live-hls/amlst:dolyconor-sd-8788d2a160b1fd6bd9316a051dcf0bbfdb36f6f8c035250ec86988b04422a94a_trns_h264/playlist.m3u8
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:dolyconor-sd-8788d2a160b1fd6bd9316a051dcf0bbfdb36f6f8c035250ec86988b04422a94a_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", DRUGCANDY
-https://edge7-mad.live.mmcdn.com/live-hls/amlst:drugcandy-sd-6d8bd29de9894eedce3dd514c94ae31cd3c082b41c0f2bd17abde6318ee61b02_trns_h264/playlist.m3u8
+https://edge20-ams.live.mmcdn.com/live-hls/amlst:drugcandy-sd-6d8bd29de9894eedce3dd514c94ae31cd3c082b41c0f2bd17abde6318ee61b02_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ELENATROYY
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.elenatroyy.01KMVFGEED39G1J4JGSE220S1X/llhls.m3u8
@@ -199,19 +196,13 @@ https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.elenatroyy.01KMVFGEED39G
 https://edge6-ams.live.mmcdn.com/live-hls/amlst:ellette_-sd-760fead9ef1f0b530c032162722e3645841431b42aa3286e0fe699886faeffa1_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", EMELYROSS_
-https://edge9-ams.live.mmcdn.com/live-hls/amlst:emelyross_-sd-afd7ab487dd47f2182653a910faacf2dfa4c6cb4588be8e19aefd8e5900a7a6a_trns_h264/playlist.m3u8
+https://edge19-mad.live.mmcdn.com/live-hls/amlst:emelyross_-sd-afd7ab487dd47f2182653a910faacf2dfa4c6cb4588be8e19aefd8e5900a7a6a_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", EMIILYCAMPBELL
 https://edge12-mad.live.mmcdn.com/live-hls/amlst:emiilycampbell-sd-f4f520bc62513e96734103b44ff31177eba3bf25ed538911665ac74c5b974ff6_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", EMILYS_SCOTT
-https://edge12-mad.live.mmcdn.com/live-hls/amlst:emilys_scott-sd-2a8dc30ab3ad06247c1f40ff3e3b528d4d43b2d5e208dd90fd3159155c83c65b_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", EMMA_GARCIAA_
 https://edge12-mad.live.mmcdn.com/live-hls/amlst:emma_garciaa_-sd-7186f84ed118c6c863cfefe10dd6977d99ef43b7ee2b8fb51afbfdb76f2a6fd0_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", ENGELSTONE_
-https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.engelstone_.01KMVCXYRFG43G29XDRBBWKZBP/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ERIKABEE
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.erikabee.01KMVCCCPY0XQXT89TNZN4HFE4/llhls.m3u8
@@ -220,7 +211,10 @@ https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.erikabee.01KMVCCCPY0XQXT
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.evelin_gh1.01KMV8FG5TA49WNY4RMY5HCQS9/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", EVIE_CLARK_
-https://edge7-mad.live.mmcdn.com/live-hls/amlst:evie_clark_-sd-b81aed0b12d5666f3016ac6561a18319a46e322b8538c50481c64feae12449db_trns_h264/playlist.m3u8
+https://edge15-fra.live.mmcdn.com/live-hls/amlst:evie_clark_-sd-b81aed0b12d5666f3016ac6561a18319a46e322b8538c50481c64feae12449db_trns_h264/playlist.m3u8
+
+#EXTINF:-1 group-title="ONLINE", _FELI_
+https://edge28-ams.live.mmcdn.com/live-hls/amlst:_feli_-sd-48da04f55e4617ee513811cbed5a9ba6d8a7eba6267620030e8ee45e71c03875_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", FLUFFYGARDEN_
 https://edge17-fra.live.mmcdn.com/live-hls/amlst:fluffygarden_-sd-3c0573ec3dbe68d2cc6f86a3dec922af37c56dc6122ede3c4cc4874dbba241b8_trns_h264/playlist.m3u8
@@ -228,32 +222,23 @@ https://edge17-fra.live.mmcdn.com/live-hls/amlst:fluffygarden_-sd-3c0573ec3dbe68
 #EXTINF:-1 group-title="ONLINE", GERMANGIRL1996
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.germangirl1996.01KMV7DBQM2A77B64FTBP72BEZ/llhls.m3u8
 
-#EXTINF:-1 group-title="ONLINE", GIO_GIO44
-https://edge7-mad.live.mmcdn.com/live-hls/amlst:gio_gio44-sd-ab34c9c1ee6cbccd96e7e2d582c3e63af7828cb047c3097ca56cc087aaaf3fd8_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", GIRLSWANNASEX
-https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.girlswannasex.01KMVFGHPA4R30FG4K9TZJZRV1/llhls.m3u8
+https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.girlswannasex.01KMVG0WQEQHDFFNWATGGPZRS6/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", GISELLEE__
-https://edge12-mad.live.mmcdn.com/live-hls/amlst:gisellee__-sd-9d0df04d57e186fdf1f2750bbd15234d8e45bea567a7ac0c2ec3d6b91cb7b308_trns_h264/playlist.m3u8
+https://edge12-ams.live.mmcdn.com/live-hls/amlst:gisellee__-sd-9d0df04d57e186fdf1f2750bbd15234d8e45bea567a7ac0c2ec3d6b91cb7b308_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", HANNA_CONNORSS
-https://edge15-fra.live.mmcdn.com/live-hls/amlst:hanna_connorss-sd-40e67b86b79f5c1fa64ac768ef927b6bd5b3e2c972e89ae85624f0a0d42b18bb_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", HANNAH_MARTINEZ_
-https://edge24-fra.live.mmcdn.com/live-hls/amlst:hannah_martinez_-sd-55b0b7075302545a8cda06c381c3f516191fa157264fc272371d153bd9e0b5f1_trns_h264/playlist.m3u8
+https://edge15-mad.live.mmcdn.com/live-hls/amlst:hanna_connorss-sd-40e67b86b79f5c1fa64ac768ef927b6bd5b3e2c972e89ae85624f0a0d42b18bb_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", HANNAPAOLA
-https://edge15-mad.live.mmcdn.com/live-hls/amlst:hannapaola-sd-54832cac422f7ff6eee9953b79f063e0d0d2e9fb3caa6de36cccdb2dfce5fa5a_trns_h264/playlist.m3u8
+https://edge16-ams.live.mmcdn.com/live-hls/amlst:hannapaola-sd-54832cac422f7ff6eee9953b79f063e0d0d2e9fb3caa6de36cccdb2dfce5fa5a_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", HARMONYBABE_
-https://edge8-mxp.live.mmcdn.com/live-hls/amlst:harmonybabe_-sd-8f79b72949580653569c5ba62984ddf5faaebe47ee722b7eb86e745ea9bc0b70_trns_h264/playlist.m3u8
+https://edge23-fra.live.mmcdn.com/live-hls/amlst:harmonybabe_-sd-8f79b72949580653569c5ba62984ddf5faaebe47ee722b7eb86e745ea9bc0b70_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", HETTY_SATAR
-https://edge15-ams.live.mmcdn.com/live-hls/amlst:hetty_satar-sd-529b210a3afb27ce8d53e4f94b6257c09e0221bec71d622b18ae8e8867db7d34_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", HOTMILFBITCH
-https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.hotmilfbitch.01KMVF4RH939VZD1BS6FYP2VCM/llhls.m3u8
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:hetty_satar-sd-529b210a3afb27ce8d53e4f94b6257c09e0221bec71d622b18ae8e8867db7d34_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", HOTTEST_MATURE
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.hottest_mature.01KMVD8HQ69JVABXWCY82K1W8Q/llhls.m3u8
@@ -263,9 +248,6 @@ https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.iam_eli.01KMV9BRD1NW5247
 
 #EXTINF:-1 group-title="ONLINE", INDIAN_SUMMER_
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.indian_summer_.01KMVFHP6SY3AZXQ5Q51E1ZBVV/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", IVEY_STRIGOI
-https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.ivey_strigoi.01KMVEJ2CQ6XPX42KD7E1RCFC7/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", JADE_STORM_
 https://edge21-fra.live.mmcdn.com/live-hls/amlst:jade_storm_-sd-01708d4e47167ae9d4c227c20bbc4a1d3ccbbf4eee7ce41420d76668b1bb5b7d_trns_h264/playlist.m3u8
@@ -283,46 +265,37 @@ https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.jap_amelle.01KMVB1K0DH48
 https://edge19-mad.live.mmcdn.com/live-hls/amlst:jasminedaze888-sd-eaf932a753eee4eb39603283709cc2dadf218715a7f75c15ab51865e457e7e68_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", JESSICCABURNS
-https://edge16-mad.live.mmcdn.com/live-hls/amlst:jessiccaburns-sd-8cf91746b4fc41fe652d5c4927a6f9b2c4ca5e9b31d005327905da2829a973e0_trns_h264/playlist.m3u8
+https://edge21-fra.live.mmcdn.com/live-hls/amlst:jessiccaburns-sd-8cf91746b4fc41fe652d5c4927a6f9b2c4ca5e9b31d005327905da2829a973e0_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", JSEDUCTIVEART
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.jseductiveart.01KMVA22JZTZZN3NT689G7HRX8/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", JULIETTE_GARDEN
-https://edge16-ams.live.mmcdn.com/live-hls/amlst:juliette_garden-sd-2d04042e19686534f20ea534c37c7680cb606b602bb67a5a57bd68b961b23e4c_trns_h264/playlist.m3u8
+https://edge8-mad.live.mmcdn.com/live-hls/amlst:juliette_garden-sd-2d04042e19686534f20ea534c37c7680cb606b602bb67a5a57bd68b961b23e4c_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", JUST_GIRLSGIRLS
 https://edge12-mad.live.mmcdn.com/live-hls/amlst:just_girlsgirls-sd-0c0123dead8481a74aaf48d62120d16a3cf8ebf8e90b279bdebb8aa76c14d38b_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", KAREL_TI
-https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.karel_ti.01KMTX3PVTCWPF60H5W12WXQDW/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KATALEYACANDY
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.kataleyacandy.01KMV0EK4XXZGG69W8CMGRMBD8/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KATE_EVANS1
-https://edge8-mxp.live.mmcdn.com/live-hls/amlst:kate_evans1-sd-9a3d7de99d10f5ec25a0954f38ec68255405d96e76633cd782371f7ad9d76f43_trns_h264/playlist.m3u8
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:kate_evans1-sd-9a3d7de99d10f5ec25a0954f38ec68255405d96e76633cd782371f7ad9d76f43_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KATEADAMSS1
 https://edge12-mad.live.mmcdn.com/live-hls/amlst:kateadamss1-sd-0972106bb310caea8e14d00f32f2a85410c20c4ddefe8412362347a03a8f8313_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", KATI_01
-https://edge16-mad.live.mmcdn.com/live-hls/amlst:kati_01-sd-360a8e0e4922a3c6fb919b69c5390608b096eaa9c72d0a87c57851f3b29f4327_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", KATRINA_KAIF1
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.katrina_kaif1.01KMV0J6CX7NKN7FNEJ0T6WQEB/llhls.m3u8
 
-#EXTINF:-1 group-title="ONLINE", KATXXGOLDING
-https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.katxxgolding.01KMV95HBKR7QR0ZCDGNP2WZ7R/llhls.m3u8
-
 #EXTINF:-1 group-title="ONLINE", KATYANDNATHA
-https://edge12-fra.live.mmcdn.com/live-hls/amlst:katyandnatha-sd-79af47c8251fec80db0b4e283a1bda7495b23b731fa1e76f056389bffc76ffd7_trns_h264/playlist.m3u8
+https://edge12-ams.live.mmcdn.com/live-hls/amlst:katyandnatha-sd-79af47c8251fec80db0b4e283a1bda7495b23b731fa1e76f056389bffc76ffd7_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KATYBLOOM_
-https://edge26-ams.live.mmcdn.com/live-hls/amlst:katybloom_-sd-1b3cad543f448ce681d71682859afcad9fdf855ca8c2e810cc9c610aee14d20a_trns_h264/playlist.m3u8
+https://edge26-fra.live.mmcdn.com/live-hls/amlst:katybloom_-sd-1b3cad543f448ce681d71682859afcad9fdf855ca8c2e810cc9c610aee14d20a_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KATYMOLLY
-https://edge8-mxp.live.mmcdn.com/live-hls/amlst:katymolly-sd-b369677193e39b14657888bf951c4dd70de22e42c4a9f017e68eaaec08b01b76_trns_h264/playlist.m3u8
+https://edge9-ams.live.mmcdn.com/live-hls/amlst:katymolly-sd-b369677193e39b14657888bf951c4dd70de22e42c4a9f017e68eaaec08b01b76_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KAYLA_BATISTA01_
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.kayla_batista01_.01KMVC6AH1J01JJT4KF18040QW/llhls.m3u8
@@ -331,25 +304,19 @@ https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.kayla_batista01_.01KMVC
 https://edge16-mad.live.mmcdn.com/live-hls/amlst:kendall_hot7-sd-494c5b3d2eb4ea38936b94a8d8bc65e45e08ff408ecd609f827ed10a9dc4fb9d_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KISS_JESS
-https://edge12-fra.live.mmcdn.com/live-hls/amlst:kiss_jess-sd-32c2a46b9188f415abcfd26399f048adb6620dab08a9bec6e8b1bf88bf880bf8_trns_h264/playlist.m3u8
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:kiss_jess-sd-32c2a46b9188f415abcfd26399f048adb6620dab08a9bec6e8b1bf88bf880bf8_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KISSME_CUTIE
 https://edge9-mad.live.mmcdn.com/live-hls/amlst:kissme_cutie-sd-438c6f277ab1b341ef5967cfbd062e3b40ea0affbc6a838a292d6287ecc72954_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", KITTY__SOPHIE
-https://edge26-fra.live.mmcdn.com/live-hls/amlst:kitty__sophie-sd-3c45ef1b19050b57d6537f7f596b43bf1a3412cee29c394202d9d79b7287d153_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", KITTYCAITLIN
-https://edge20-mad.live.mmcdn.com/live-hls/amlst:kittycaitlin-sd-3a431671aecd37ec3774c6b9ed3e7c80c7ce82757589a060b0832cf500f2c1b7_trns_h264/playlist.m3u8
+https://edge23-mad.live.mmcdn.com/live-hls/amlst:kittycaitlin-sd-3a431671aecd37ec3774c6b9ed3e7c80c7ce82757589a060b0832cf500f2c1b7_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KITTYZEVEE_
-https://edge17-fra.live.mmcdn.com/live-hls/amlst:kittyzevee_-sd-4446e03f11b39beb4f996ac809deb8eaa8b1925ac112f0292af6cd7e7d94fa8f_trns_h264/playlist.m3u8
+https://edge12-ams.live.mmcdn.com/live-hls/amlst:kittyzevee_-sd-4446e03f11b39beb4f996ac809deb8eaa8b1925ac112f0292af6cd7e7d94fa8f_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", KLARIZ09
-https://edge16-mad.live.mmcdn.com/live-hls/amlst:klariz09-sd-26d6a101c3faa37ba5a9737d1c9b6c6030c0224baad282252da95d2e39cf3420_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", KOZZY_
-https://edge17-ams.live.mmcdn.com/live-hls/amlst:kozzy_-sd-e03411730b241537e2ce0c4cd6de7626c919c26c639d81081779cedee7cd314e_trns_h264/playlist.m3u8
+https://edge16-ams.live.mmcdn.com/live-hls/amlst:klariz09-sd-26d6a101c3faa37ba5a9737d1c9b6c6030c0224baad282252da95d2e39cf3420_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LA_ROLA_
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.la_rola_.01KMVFJMNNX6C5P3RD1P66JZ2J/llhls.m3u8
@@ -361,16 +328,13 @@ https://edge25-fra.live.mmcdn.com/live-hls/amlst:laauura_1-sd-acb0314be69179b3c6
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.lana_lee_.01KMV71KDGX067AQPJQWNSCB0Y/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LARA_GIRALDO
-https://edge7-mad.live.mmcdn.com/live-hls/amlst:lara_giraldo-sd-6c3a6a950c81ba4d33ac9eeed2656c6f855ea218f00b1aa1569a777e3f803c5e_trns_h264/playlist.m3u8
+https://edge12-fra.live.mmcdn.com/live-hls/amlst:lara_giraldo-sd-6c3a6a950c81ba4d33ac9eeed2656c6f855ea218f00b1aa1569a777e3f803c5e_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LAU__1
-https://edge18-fra.live.mmcdn.com/live-hls/amlst:lau__1-sd-959b7e652d51eb2f135aa263016f324091cdbde28304d931145d51b070e613a5_trns_h264/playlist.m3u8
+https://edge16-ams.live.mmcdn.com/live-hls/amlst:lau__1-sd-959b7e652d51eb2f135aa263016f324091cdbde28304d931145d51b070e613a5_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LAURA1__
-https://edge6-mad.live.mmcdn.com/live-hls/amlst:laura1__-sd-a916e7f65dfc89bcfb0c431476c173b40863643c5c1eb587fd9e7e53c194ff40_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", LENA_HELLEEN
-https://edge12-fra.live.mmcdn.com/live-hls/amlst:lena_helleen-sd-977f0d34f0fb5111aecab2776522cb1a266b7e2bfeb4c0ac3a0b997197def068_trns_h264/playlist.m3u8
+https://edge25-fra.live.mmcdn.com/live-hls/amlst:laura1__-sd-a916e7f65dfc89bcfb0c431476c173b40863643c5c1eb587fd9e7e53c194ff40_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LIBBYSHEPARD
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.libbyshepard.01KMVF4P6EFZS3KRQMNPR7YN11/llhls.m3u8
@@ -379,31 +343,19 @@ https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.libbyshepard.01KMVF4P6E
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.lila_elliot.01KMV675R29XM3Y68TTF83NBQR/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LILA_FOOX
-https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.lila_foox.01KMTV4X1YVW6RHBH1Z27D3424/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", LILIAAH
-https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.liliaah.01KMV7JMB84BKZYJJ6ZRCFYF1R/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", LILITH__ROSSE
-https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.lilith__rosse.01KMTYDQ1GJ03JBD31H2JCADP0/llhls.m3u8
+https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.lila_foox.01KMVGXX8SDAW2STH6ACR75XPN/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LILY_MERLIN
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.lily_merlin.01KMVE14TWY8BEV6186T2VGVEB/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", LIRIO05
-https://edge23-fra.live.mmcdn.com/live-hls/amlst:lirio05-sd-95cb95fb6734a69a6f94cdf83b64a42d4e2015a53dc1efdc24f1614d7491b311_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LIZETH_BELS
 https://edge8-ams.live.mmcdn.com/live-hls/amlst:lizeth_bels-sd-88fcc4ff424c6c303e04cd564ea0d92fc98904ba0d3fe51eb455da495abdb1ee_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LOVE_KRIS
-https://edge22-mad.live.mmcdn.com/live-hls/amlst:love_kris-sd-ff7695a40c82ee0d57aa90afd9dedc528debaeb8eafea679c784e97e057702b5_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", LU_NOVAL
-https://edge12-fra.live.mmcdn.com/live-hls/amlst:lu_noval-sd-7c11135d79cae8bc7b526f3f6e0005712806cbc53d0cb58a1c100f8253416807_trns_h264/playlist.m3u8
+https://edge25-fra.live.mmcdn.com/live-hls/amlst:love_kris-sd-ff7695a40c82ee0d57aa90afd9dedc528debaeb8eafea679c784e97e057702b5_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LUCIANA_66
-https://edge19-mad.live.mmcdn.com/live-hls/amlst:luciana_66-sd-e0693ca77f17e211e1f46ec5eca97482c298603fd316c19a45549136ac58025e_trns_h264/playlist.m3u8
+https://edge22-fra.live.mmcdn.com/live-hls/amlst:luciana_66-sd-e0693ca77f17e211e1f46ec5eca97482c298603fd316c19a45549136ac58025e_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LUCIFERA1
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.lucifera1.01KMVC6MSC4Y9ZD9Y5H1RSF0DF/llhls.m3u8
@@ -418,19 +370,16 @@ https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.luckystrikee_.01KMV0F529
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.lucy_beatifull.01KMV8CC756490WAY83E3DD7VA/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LULU_KAWAI
-https://edge19-mad.live.mmcdn.com/live-hls/amlst:lulu_kawai-sd-61d9de5db459cd58097880dde1a487f73ce00039d1b0d90fd41032cf0430d2db_trns_h264/playlist.m3u8
+https://edge16-ams.live.mmcdn.com/live-hls/amlst:lulu_kawai-sd-61d9de5db459cd58097880dde1a487f73ce00039d1b0d90fd41032cf0430d2db_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LULUWONDER_
-https://edge12-ams.live.mmcdn.com/live-hls/amlst:luluwonder_-sd-a4ee891bd24a955af022046125f37fa3d55d46fa6169a9f3b9b1b84442036b1e_trns_h264/playlist.m3u8
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:luluwonder_-sd-a4ee891bd24a955af022046125f37fa3d55d46fa6169a9f3b9b1b84442036b1e_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", LUU____
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.luu____.01KMVERXVPK8BWAJTT82F3NC6G/llhls.m3u8
 
-#EXTINF:-1 group-title="ONLINE", LYSACOLLINS20_
-https://edge8-mxp.live.mmcdn.com/live-hls/amlst:lysacollins20_-sd-bcbeafae2fe940d56da9b973d76d98c6c2d169e569843c80e68df738a1a8028a_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", MAADDY_THOMPSON
-https://edge17-fra.live.mmcdn.com/live-hls/amlst:maaddy_thompson-sd-4a1cf87f62aea6ef89c5dbb9d03ebb5c8a989961405835789daebaa6c3c3d854_trns_h264/playlist.m3u8
+https://edge17-ams.live.mmcdn.com/live-hls/amlst:maaddy_thompson-sd-4a1cf87f62aea6ef89c5dbb9d03ebb5c8a989961405835789daebaa6c3c3d854_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MAGIC_MARG
 https://edge20-mad.live.mmcdn.com/live-hls/amlst:magic_marg-sd-e7f4b5610c22e25533c509ab8be141a8ac51db4ba32ec66a64235e87630f56b4_trns_h264/playlist.m3u8
@@ -439,34 +388,31 @@ https://edge20-mad.live.mmcdn.com/live-hls/amlst:magic_marg-sd-e7f4b5610c22e2553
 https://edge6-mad.live.mmcdn.com/live-hls/amlst:malka_burning-sd-98df3a8dbe6256c4a12bad97b58caa79248fa23b364771d9425bba8b231814ac_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MANDYMINX66
-https://edge6-mad.live.mmcdn.com/live-hls/amlst:mandyminx66-sd-2d793c512a9c9315eff57fe5270de8944b0ad77e5674aafc248fbc3b2bd6a556_trns_h264/playlist.m3u8
+https://edge7-ams.live.mmcdn.com/live-hls/amlst:mandyminx66-sd-2d793c512a9c9315eff57fe5270de8944b0ad77e5674aafc248fbc3b2bd6a556_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MARAGIRL
-https://edge8-mad.live.mmcdn.com/live-hls/amlst:maragirl-sd-c60ea160eeff9b622b3f4dcde091f8a9078d0d75a9074f33c42e8deed45c1558_trns_h264/playlist.m3u8
+https://edge16-ams.live.mmcdn.com/live-hls/amlst:maragirl-sd-c60ea160eeff9b622b3f4dcde091f8a9078d0d75a9074f33c42e8deed45c1558_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MARCELINE_UU
-https://edge17-mad.live.mmcdn.com/live-hls/amlst:marceline_uu-sd-f2ca10ff0f98dbdc36051b1aae157ee7da45da1f02e62cbbf6b0987bc8becc68_trns_h264/playlist.m3u8
+https://edge7-ams.live.mmcdn.com/live-hls/amlst:marceline_uu-sd-f2ca10ff0f98dbdc36051b1aae157ee7da45da1f02e62cbbf6b0987bc8becc68_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MARIANNACRUZZ
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.mariannacruzz.01KMV3Q8BYQATWPV92TWE7C9G6/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MARIE_MILLER_
-https://edge12-mad.live.mmcdn.com/live-hls/amlst:marie_miller_-sd-bc444039003fb24e45d2332917397f358d995d3feeaf1c042fe3d470ffdc4971_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", MAYAFORYOU247
-https://edge6-ams.live.mmcdn.com/live-hls/amlst:mayaforyou247-sd-bc7327670f94b3726601680d2a9a50a9bf5806aaca1a6fea90185ca973da3894_trns_h264/playlist.m3u8
+https://edge26-ams.live.mmcdn.com/live-hls/amlst:marie_miller_-sd-bc444039003fb24e45d2332917397f358d995d3feeaf1c042fe3d470ffdc4971_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MAYBELLINE_666
-https://edge6-fra.live.mmcdn.com/live-hls/amlst:maybelline_666-sd-b7d240a5c0e6f3304f38cf27b6a372476e01bc17f05bc43c1614de13b943fb6a_trns_h264/playlist.m3u8
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:maybelline_666-sd-b7d240a5c0e6f3304f38cf27b6a372476e01bc17f05bc43c1614de13b943fb6a_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MELI_JONES69
-https://edge15-fra.live.mmcdn.com/live-hls/amlst:meli_jones69-sd-a83a3dd661b53d7bbd20256c722fbfb01118371fc642fd894639cb76ac95c7a8_trns_h264/playlist.m3u8
+https://edge16-mad.live.mmcdn.com/live-hls/amlst:meli_jones69-sd-a83a3dd661b53d7bbd20256c722fbfb01118371fc642fd894639cb76ac95c7a8_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MERY_LO
-https://edge24-fra.live.mmcdn.com/live-hls/amlst:mery_lo-sd-f5fb2473f0f78c06137237c4c01772917a8db267b8d318f05ef7118774f640bb_trns_h264/playlist.m3u8
+https://edge23-mad.live.mmcdn.com/live-hls/amlst:mery_lo-sd-f5fb2473f0f78c06137237c4c01772917a8db267b8d318f05ef7118774f640bb_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MIA_GARCIA2
-https://edge15-fra.live.mmcdn.com/live-hls/amlst:mia_garcia2-sd-c248f7d81742c0a444076caffa19bb88c01d1879ce3558bd6b361762305264b0_trns_h264/playlist.m3u8
+https://edge12-ams.live.mmcdn.com/live-hls/amlst:mia_garcia2-sd-c248f7d81742c0a444076caffa19bb88c01d1879ce3558bd6b361762305264b0_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MIA_LOPEZ52
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.mia_lopez52.01KMVFPCJXZ05DTRB7MWF3Q9H1/llhls.m3u8
@@ -478,7 +424,7 @@ https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.mia_reeves.01KMTZXM0QDQ8
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.miah_luv.01KMTZ60V4JY7AC9SYNGBYN2VW/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MICHEL_ROUS_LA_MAS_CALIENTE
-https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.michel_rous_la_mas_caliente.01KMVFS2M63PVFT7J5T5VHF0V8/llhls.m3u8
+https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.michel_rous_la_mas_caliente.01KMVG61MSZEJ0GSTG4ZJ7Q2E5/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MILAVELOUR
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.milavelour.01KMVBBNBMBQB9SDCB9YX14EN9/llhls.m3u8
@@ -495,14 +441,8 @@ https://edge6-ams.live.mmcdn.com/live-hls/amlst:mira_fyre-sd-5e3009814b381ac5050
 #EXTINF:-1 group-title="ONLINE", MISS_GALAXXIA
 https://edge24-mad.live.mmcdn.com/live-hls/amlst:miss_galaxxia-sd-e1fdf3f5b7a85c4f9b3b335a2773da1298ff2666dd8eab8a108145fc6376cd8a_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", MISS_LILIETH
-https://edge12-fra.live.mmcdn.com/live-hls/amlst:miss_lilieth-sd-defe9111e74a5045deeaa178e8dedc2bceb53f3a4a23114138dc377feca52924_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", MISSDANAH
 https://edge27-fra.live.mmcdn.com/live-hls/amlst:missdanah-sd-f0f514a7a2b4e7fd6714db58944234c1bebe9494fe8243b7bf200f4ae28c0453_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", MISSLOISE
-https://edge24-fra.live.mmcdn.com/live-hls/amlst:missloise-sd-7ea15c290b4ec2554f978f534ee3cccbe9d93a1ee98b10c2282f1e9b7eefdf3d_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MISSYRAI
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.missyrai.01KMVAZT5ZHXYP4Y2PK4YQS6VD/llhls.m3u8
@@ -510,23 +450,17 @@ https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.missyrai.01KMVAZT5ZHXYP4
 #EXTINF:-1 group-title="ONLINE", MOLLYGREENS
 https://edge23-mad.live.mmcdn.com/live-hls/amlst:mollygreens-sd-f9f94f521b51748316a26d7cc5ab0d62a1b8b44dca9d6981c189fed14db410f9_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", MOLLYRIVERA
-https://edge8-ams.live.mmcdn.com/live-hls/amlst:mollyrivera-sd-be7fb7da0362fb889f233c00cd919a5234a043427f2e1c85cb3c497eb0605af9_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", MOM_17
-https://edge24-mad.live.mmcdn.com/live-hls/amlst:mom_17-sd-7ee72102b841c7955e8043f7fa4a450a3e92b7be09dda50a67e05c4a663b9cf0_trns_h264/playlist.m3u8
+https://edge24-fra.live.mmcdn.com/live-hls/amlst:mom_17-sd-7ee72102b841c7955e8043f7fa4a450a3e92b7be09dda50a67e05c4a663b9cf0_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MOM_XXX
-https://edge22-mad.live.mmcdn.com/live-hls/amlst:mom_xxx-sd-abb3a6cbdf8d6006cd3b254a354942e8245dd8162f5c72bfa3839b4a5a4111fd_trns_h264/playlist.m3u8
+https://edge23-fra.live.mmcdn.com/live-hls/amlst:mom_xxx-sd-abb3a6cbdf8d6006cd3b254a354942e8245dd8162f5c72bfa3839b4a5a4111fd_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", MOXXXIMOON
-https://edge17-fra.live.mmcdn.com/live-hls/amlst:moxxximoon-sd-b2e787dc27547c9d9284af6ea6b8b5909353860fd20448dc3a3e44c9ce3c0232_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", MYSWEETSOFIE1
-https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.mysweetsofie1.01KMVAJ6MW4ZTE3PX3RTFEG9DS/llhls.m3u8
+https://edge19-mad.live.mmcdn.com/live-hls/amlst:moxxximoon-sd-b2e787dc27547c9d9284af6ea6b8b5909353860fd20448dc3a3e44c9ce3c0232_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", NAHIAPAWS
-https://edge12-mad.live.mmcdn.com/live-hls/amlst:nahiapaws-sd-b9123b9103fbeeb7e7c1133961a00bae5b0c9d5c89802cd4c5dba128e57d16e4_trns_h264/playlist.m3u8
+https://edge17-ams.live.mmcdn.com/live-hls/amlst:nahiapaws-sd-b9123b9103fbeeb7e7c1133961a00bae5b0c9d5c89802cd4c5dba128e57d16e4_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", NAHOMYGREY_
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.nahomygrey_.01KMVCSBMKRZ61S36GH0NSZKK7/llhls.m3u8
@@ -534,41 +468,20 @@ https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.nahomygrey_.01KMVCSBMKRZ
 #EXTINF:-1 group-title="ONLINE", NAMIBERGMAN_
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.namibergman_.01KMVAKSBG5JRG3GTCXZYQJBBY/llhls.m3u8
 
-#EXTINF:-1 group-title="ONLINE", NATALIA_IVANOVA1
-https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.natalia_ivanova1.01KMVA529Z6QWZ3VXZXXNKANGH/llhls.m3u8
-
 #EXTINF:-1 group-title="ONLINE", NATASHA_FOXXX
 https://edge20-mad.live.mmcdn.com/live-hls/amlst:natasha_foxxx-sd-4062992c4c72b72bde66d5ef380eeb31a882bffbe81d483cd8f4641429fc55e7_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", NATYCTE_13
-https://edge21-ams.live.mmcdn.com/live-hls/amlst:natycte_13-sd-ceaf2a6887827eb6cd98a080308a712249d9570f517026ecb480228bc55a595b_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", NAUGHTY_SEXY_GIRL_1
-https://edge29-ams.live.mmcdn.com/live-hls/amlst:naughty_sexy_girl_1-sd-d2dd2ecade5785f9909d408acc7f8d22d867fd0f93bdf3d84e6df830c4d64465_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", NAUGHTYBUNNYY_1
 https://edge16-mad.live.mmcdn.com/live-hls/amlst:naughtybunnyy_1-sd-67c20d57f13d98545b34fe52ee9491686cc05968e5eab2af8ea83a35d9e2107c_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", NAUGHTYSASHA27
-https://edge19-fra.live.mmcdn.com/live-hls/amlst:naughtysasha27-sd-fc1814f804c8524f7cf2856c3356c93d8d42b8428cbab48fe39abf6c8749f57b_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", NESTHICCDUO
-https://edge17-mad.live.mmcdn.com/live-hls/amlst:nesthiccduo-sd-ddf087768b7005975fc9a82325c8b2b27d3cc439f83ebf2243434a1ebd28a437_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", NICOLEPEACHX
-https://edge19-fra.live.mmcdn.com/live-hls/amlst:nicolepeachx-sd-37ed4701b4d3d3f68bbae42720ba737362c26120d37f8a608329f0d9fe00b9dd_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", NINAEVANSS
-https://edge15-fra.live.mmcdn.com/live-hls/amlst:ninaevanss-sd-9ada86b0c101b93c9ff37c8bb8044a4d393649799894052e73c850ac5cee36d3_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", NOTECARRET
-https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.notecarret.01KMTZSM7C93YQT70N6AZQCVRV/llhls.m3u8
+https://edge25-fra.live.mmcdn.com/live-hls/amlst:nesthiccduo-sd-ddf087768b7005975fc9a82325c8b2b27d3cc439f83ebf2243434a1ebd28a437_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", NURYFOREROGH
-https://edge22-fra.live.mmcdn.com/live-hls/amlst:nuryforerogh-sd-b1f8a8eeb07d887fdb7cdc9190958e526c3797616329b2f8dc586c1fdf8a667a_trns_h264/playlist.m3u8
+https://edge17-mad.live.mmcdn.com/live-hls/amlst:nuryforerogh-sd-b1f8a8eeb07d887fdb7cdc9190958e526c3797616329b2f8dc586c1fdf8a667a_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ONLY_PAMMELA
-https://edge17-mad.live.mmcdn.com/live-hls/amlst:only_pammela-sd-8d1240792e335f2fdb269f56f42b512e182688b67b5b359940268289c401d2c5_trns_h264/playlist.m3u8
+https://edge7-ams.live.mmcdn.com/live-hls/amlst:only_pammela-sd-8d1240792e335f2fdb269f56f42b512e182688b67b5b359940268289c401d2c5_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", PAFOSSTAR
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.pafosstar.01KMTH08BJHF4JK14S7BYHH021/llhls.m3u8
@@ -576,47 +489,35 @@ https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.pafosstar.01KMTH08BJHF4
 #EXTINF:-1 group-title="ONLINE", PALACH2323
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.palach2323.01KMV4K7B46G6B36PZ6K3KQWC3/llhls.m3u8
 
-#EXTINF:-1 group-title="ONLINE", PAMELA_FITH
-https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.pamela_fith.01KMTQCVDD8SCD1P4J8MKRN10F/llhls.m3u8
-
 #EXTINF:-1 group-title="ONLINE", PAMELA_MORENO
-https://edge6-mad.live.mmcdn.com/live-hls/amlst:pamela_moreno-sd-d2a68abb46a342d3fbe818a4e406fb404ab598036aa6d1cd5fd930de6ca97637_trns_h264/playlist.m3u8
+https://edge18-fra.live.mmcdn.com/live-hls/amlst:pamela_moreno-sd-d2a68abb46a342d3fbe818a4e406fb404ab598036aa6d1cd5fd930de6ca97637_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", PAOLAREY_
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.paolarey_.01KMV801EEZS57ZM3TWRVTKESP/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", PAULAA_333
-https://edge18-fra.live.mmcdn.com/live-hls/amlst:paulaa_333-sd-b7dc930a7d1fc9a5f5f46d37b815321448f18d33f684e958c943e19d6754b8d3_trns_h264/playlist.m3u8
+https://edge20-mad.live.mmcdn.com/live-hls/amlst:paulaa_333-sd-b7dc930a7d1fc9a5f5f46d37b815321448f18d33f684e958c943e19d6754b8d3_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", PENELOPPA_STAR
-https://edge16-mad.live.mmcdn.com/live-hls/amlst:peneloppa_star-sd-762a62b9829133255f76fab43513b3e6f9bc082eb503a7d183961920aea15966_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="ONLINE", _PAULAH2
+https://edge17-mad.live.mmcdn.com/live-hls/amlst:_paulah2-sd-081c808c06961802ef34c9c136c00ce970d14924e9f8220a23bc77672127b692_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", PERLA_HOT4U
-https://edge26-ams.live.mmcdn.com/live-hls/amlst:perla_hot4u-sd-9972bbf734c3e4d749690b629a53c07ee2a59fc38fc14c54db43fff7a94fcc2a_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", PETITES_PERLES
-https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.petites_perles.01KMV149MJ19P00XDT51D31V81/llhls.m3u8
+https://edge22-fra.live.mmcdn.com/live-hls/amlst:perla_hot4u-sd-9972bbf734c3e4d749690b629a53c07ee2a59fc38fc14c54db43fff7a94fcc2a_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", PETRA_BUTTERFLY
-https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.petra_butterfly.01KMVE8SPYWDS6AGNS5VZEBFM8/llhls.m3u8
+https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.petra_butterfly.01KMVH4Z68515V7JSJV9E6RKDM/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", PINKY_PINKY_
-https://edge22-mad.live.mmcdn.com/live-hls/amlst:pinky_pinky_-sd-eea445ae936cc1c29cecddd8a50777970deef3c9d1cd0fb6b2e53b55b9a182b2_trns_h264/playlist.m3u8
+https://edge24-fra.live.mmcdn.com/live-hls/amlst:pinky_pinky_-sd-eea445ae936cc1c29cecddd8a50777970deef3c9d1cd0fb6b2e53b55b9a182b2_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", PRINCESSLUNA_14
-https://edge25-fra.live.mmcdn.com/live-hls/amlst:princessluna_14-sd-412e6cd84c6e7e05c9649e12039d0d5f2014475b0ab4db1a4eac6776281be47c_trns_h264/playlist.m3u8
+https://edge17-mad.live.mmcdn.com/live-hls/amlst:princessluna_14-sd-412e6cd84c6e7e05c9649e12039d0d5f2014475b0ab4db1a4eac6776281be47c_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", PS6PRO
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.ps6pro.01KMTDSSJQBFM9S9MVEYB593K4/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", QUEENOFWANDSS
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.queenofwandss.01KMVAMAEM1SFGTXT9Q4NZCMKM/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", RACHELLWARD
-https://edge16-mad.live.mmcdn.com/live-hls/amlst:rachellward-sd-ff5948ef18fccf52bad67febdbc869bf55378735cebb4af878dc1410c6ac1c6b_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", ROSEBLOSSOM_
-https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.roseblossom_.01KMV34X39DXNYYFTAV9HCY9GG/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", ROSS_COLLINSS
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.ross_collinss.01KMVDE454PWR8TM9PNZCBJKF1/llhls.m3u8
@@ -625,55 +526,46 @@ https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.ross_collinss.01KMVDE454
 https://edge19-mad.live.mmcdn.com/live-hls/amlst:rouse_leon-sd-e616f4176649dd8af1fe189c16eefd15e6d8b4709a2b349aaf9f56a1d8bfe8ce_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SALOME_010
-https://edge7-mad.live.mmcdn.com/live-hls/amlst:salome_010-sd-98101e1fc10b72e32176f4895ff6800a53bedd3f5b0f05705f46d057a1d769ed_trns_h264/playlist.m3u8
+https://edge24-fra.live.mmcdn.com/live-hls/amlst:salome_010-sd-98101e1fc10b72e32176f4895ff6800a53bedd3f5b0f05705f46d057a1d769ed_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SAMI_SPANKS
-https://edge25-fra.live.mmcdn.com/live-hls/amlst:sami_spanks-sd-18538718da0f0a16d719c6c5a287228fedc7184e74ca0a88cfe4db65b660fdc3_trns_h264/playlist.m3u8
+https://edge17-mad.live.mmcdn.com/live-hls/amlst:sami_spanks-sd-18538718da0f0a16d719c6c5a287228fedc7184e74ca0a88cfe4db65b660fdc3_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SAMY_ONE
 https://edge7-ams.live.mmcdn.com/live-hls/amlst:samy_one-sd-9357a0539d59a85b0d8c07eb216544b9fb991a61f40cb846586c4735750603ec_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", _SANSA_
-https://edge19-fra.live.mmcdn.com/live-hls/amlst:_sansa_-sd-196e8c403cf9e2e66c239ca37b83d18f3d0115d642ec48aa337275fdf1b73c0f_trns_h264/playlist.m3u8
+https://edge21-ams.live.mmcdn.com/live-hls/amlst:_sansa_-sd-196e8c403cf9e2e66c239ca37b83d18f3d0115d642ec48aa337275fdf1b73c0f_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SATANBABEE_
-https://edge24-mad.live.mmcdn.com/live-hls/amlst:satanbabee_-sd-29562b88bf663bcba8faf406ca835d624616586d0a90c54467f4df7e4339d00f_trns_h264/playlist.m3u8
+https://edge8-ams.live.mmcdn.com/live-hls/amlst:satanbabee_-sd-29562b88bf663bcba8faf406ca835d624616586d0a90c54467f4df7e4339d00f_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SEU_CUTE
 https://edge1-mad.live.mmcdn.com/v1/edge/streams/origin.seu_cute.01KMV8KVST1W3NPSK54SGWHMTZ/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SEXY_EMELI
-https://edge15-mxp.live.mmcdn.com/live-hls/amlst:sexy_emeli-sd-ad334059ae5bf2fe423d3b4dd3caa2c133a8a3872f448e558c35ad9a1b54fe41_trns_h264/playlist.m3u8
+https://edge24-fra.live.mmcdn.com/live-hls/amlst:sexy_emeli-sd-ad334059ae5bf2fe423d3b4dd3caa2c133a8a3872f448e558c35ad9a1b54fe41_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SHARONEVANSS
-https://edge19-fra.live.mmcdn.com/live-hls/amlst:sharonevanss-sd-97c308e1662b77ead5d0018d503deabb1457e0175790631d1d7e33cdf1aa0436_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", SHARONSCOTHH
-https://edge9-mxp.live.mmcdn.com/live-hls/amlst:sharonscothh-sd-4c70250964a39208efa618c6611c7b204fd5435419657b1e60d7ae227735b999_trns_h264/playlist.m3u8
+https://edge7-ams.live.mmcdn.com/live-hls/amlst:sharonevanss-sd-97c308e1662b77ead5d0018d503deabb1457e0175790631d1d7e33cdf1aa0436_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SHELBY_CARSON
-https://edge7-ams.live.mmcdn.com/live-hls/amlst:shelby_carson-sd-e8b7fc6a40b40eda4813972757a6ace53627cb8df2b3eaada1fb9c78be3ea87a_trns_h264/playlist.m3u8
+https://edge9-mad.live.mmcdn.com/live-hls/amlst:shelby_carson-sd-e8b7fc6a40b40eda4813972757a6ace53627cb8df2b3eaada1fb9c78be3ea87a_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SHYCINDERELLA
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.shycinderella.01KMVBEQ98P303PN3TV2050TXP/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SOFIAREYESX1
-https://edge17-mad.live.mmcdn.com/live-hls/amlst:sofiareyesx1-sd-6616e1b7b886d06bae85ea95eaa7dcad957d654172d16bd1641b42d10f821b31_trns_h264/playlist.m3u8
+https://edge19-fra.live.mmcdn.com/live-hls/amlst:sofiareyesx1-sd-6616e1b7b886d06bae85ea95eaa7dcad957d654172d16bd1641b42d10f821b31_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SOOKROBERTELLO
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.sookrobertello.01KMTXMMM0HZ0RZN284J2SPDA5/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SOYMERLY11_
-https://edge19-mad.live.mmcdn.com/live-hls/amlst:soymerly11_-sd-43d8867e198f47d497da07780179f5188d2e2457bfb87b39b9412dcbfb737cb1_trns_h264/playlist.m3u8
+https://edge24-fra.live.mmcdn.com/live-hls/amlst:soymerly11_-sd-a965dfec0e55ddf24310f24ee914d707f72bcd998c4d83a3422cc37c3723bfa8_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SQUIRTYJESS
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.squirtyjess.01KMV9KWVRQ6DP34JN0DH3JWTS/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", STUNNINGBOOBS
-https://edge15-ams.live.mmcdn.com/live-hls/amlst:stunningboobs-sd-1fbaf0ce6c3c701e6535ecc347a825d5c2cb5c098425843f7f9e8da43feb89de_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", SUBLIMETOUCH
-https://edge6-ams.live.mmcdn.com/live-hls/amlst:sublimetouch-sd-57a8f38cd0b2e4c9d99b866c2c4c3e1973078961bca6b1698d006eadfb2edf41_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SUPERBDOLLS
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.superbdolls.01KMVCMMTZV2VZ3P15250GSY6C/llhls.m3u8
@@ -682,16 +574,13 @@ https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.superbdolls.01KMVCMMTZV2
 https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.susan_moore29.01KMV17RH55CWJDBCHRE4W3CE1/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SWEET_BARBIIEE
-https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.sweet_barbiiee.01KMVCR2EP9YY523GH1896VTSG/llhls.m3u8
-
-#EXTINF:-1 group-title="ONLINE", SWEET_CAMI1
-https://edge24-fra.live.mmcdn.com/live-hls/amlst:sweet_cami1-sd-8bfbebfb8c0950b3dc3da7db21bbe513d09ea8a5ebac2a3ca20aeb0dd84f0ded_trns_h264/playlist.m3u8
+https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.sweet_barbiiee.01KMVH3J6K16XGAPTTNRYCRPEJ/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SWEET_CHILLI_
 https://edge17-ams.live.mmcdn.com/live-hls/amlst:sweet_chilli_-sd-4225440b587bc8f65d23dde2b2389473fd9e76dd920340968983858439ca3ad1_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SWEETFABIANAXL
-https://edge18-mxp.live.mmcdn.com/live-hls/amlst:sweetfabianaxl-sd-2ef0b20197715b3cd9d2a453b9f6d0c6cc35ba464ee3a5c898b942a50372f1f6_trns_h264/playlist.m3u8
+https://edge23-mad.live.mmcdn.com/live-hls/amlst:sweetfabianaxl-sd-2ef0b20197715b3cd9d2a453b9f6d0c6cc35ba464ee3a5c898b942a50372f1f6_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", SWEETGRACE25
 https://edge9-mad.live.mmcdn.com/live-hls/amlst:sweetgrace25-sd-98ae449b32b7c3701ac60dc4874114b0d1245c5d22847e0ce1eadb4ab0764d80_trns_h264/playlist.m3u8
@@ -700,25 +589,22 @@ https://edge9-mad.live.mmcdn.com/live-hls/amlst:sweetgrace25-sd-98ae449b32b7c370
 https://edge27-fra.live.mmcdn.com/live-hls/amlst:sweety_vikky-sd-426f44917c8cb1b51dca40bae2014aeccd0a1c891badbe21c54ea2aa6631b160_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", TAISSA_
-https://edge15-mxp.live.mmcdn.com/live-hls/amlst:taissa_-sd-61682e2e19261c5449f3f28e34ae30082ffabfe7371c1ad6a09d7b18639a6fab_trns_h264/playlist.m3u8
+https://edge26-fra.live.mmcdn.com/live-hls/amlst:taissa_-sd-61682e2e19261c5449f3f28e34ae30082ffabfe7371c1ad6a09d7b18639a6fab_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", TAMMY23_
-https://edge17-ams.live.mmcdn.com/live-hls/amlst:tammy23_-sd-32999446f36cf20627c8b3085644c1dd66c02bfaa2695be67e5f752ee0d34ade_trns_h264/playlist.m3u8
+https://edge23-mad.live.mmcdn.com/live-hls/amlst:tammy23_-sd-32999446f36cf20627c8b3085644c1dd66c02bfaa2695be67e5f752ee0d34ade_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", TATEISBLONDE
 https://edge15-fra.live.mmcdn.com/live-hls/amlst:tateisblonde-sd-8b11b8c73daa3b9c595d879f22088809c1963233e2d69cec705755f60361a29d_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", TAYLOR_SUXX
-https://edge20-mad.live.mmcdn.com/live-hls/amlst:taylor_suxx-sd-c77f220eb317f36a78a343d229c507c9c309008932642ad29c938c88b7ef8024_trns_h264/playlist.m3u8
+https://edge8-ams.live.mmcdn.com/live-hls/amlst:taylor_suxx-sd-c77f220eb317f36a78a343d229c507c9c309008932642ad29c938c88b7ef8024_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", THE_PUSSY_BOULEVARD
 https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.the_pussy_boulevard.01KMVERNYDWXCE4C6TV8V6DT3E/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", THECHICANEXTDOOR
 https://edge22-fra.live.mmcdn.com/live-hls/amlst:thechicanextdoor-sd-0cfcb7eab56f556e4dc65a8ae7d4e47abc4612a408cb0480751c584b2fd9dc99_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="ONLINE", TIABELLAXXX
-https://edge4-mad.live.mmcdn.com/v1/edge/streams/origin.tiabellaxxx.01KMVFKGSXJCAQ95BQVFQ4GKFZ/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", TIFANYHILLS
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.tifanyhills.01KMVBE5RG4K048W8KN59KR8W9/llhls.m3u8
@@ -727,19 +613,19 @@ https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.tifanyhills.01KMVBE5RG4K
 https://edge27-fra.live.mmcdn.com/live-hls/amlst:tiffany_sims-sd-c429e241fe3aeb3c92620622d9b2dca31330cdd811ac9364b6f4cb25d8ff74a5_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", TITSBIGLOVERS
-https://edge24-fra.live.mmcdn.com/live-hls/amlst:titsbiglovers-sd-0d8b4faaea1e75fa6b801079ce6279961f140a099a1258d0b9c224177b987502_trns_h264/playlist.m3u8
+https://edge6-mad.live.mmcdn.com/live-hls/amlst:titsbiglovers-sd-0d8b4faaea1e75fa6b801079ce6279961f140a099a1258d0b9c224177b987502_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", TOKYO_444
-https://edge17-ams.live.mmcdn.com/live-hls/amlst:tokyo_444-sd-fee0d7804b41c9ba166a6a54a98041fdccbdda8de56869a227f21ccf484b9c25_trns_h264/playlist.m3u8
+https://edge20-mad.live.mmcdn.com/live-hls/amlst:tokyo_444-sd-fee0d7804b41c9ba166a6a54a98041fdccbdda8de56869a227f21ccf484b9c25_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", TOMIE_SAN
 https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.tomie_san.01KMVEX3DN4TMTJ6Z90T2SZRX1/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", TOXIC_LINA
-https://edge19-fra.live.mmcdn.com/live-hls/amlst:toxic_lina-sd-38759a045a2d7ff27ad8d5855e01c80b1ed67656027c9845de9fe505586b0cf2_trns_h264/playlist.m3u8
+https://edge7-mad.live.mmcdn.com/live-hls/amlst:toxic_lina-sd-38759a045a2d7ff27ad8d5855e01c80b1ed67656027c9845de9fe505586b0cf2_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", UNFORGETTABLE_S
-https://edge15-fra.live.mmcdn.com/live-hls/amlst:unforgettable_s-sd-d4bda34f830db922fcbc8daeb26d34aed42b602b974fdb1e9244a8fc900c7461_trns_h264/playlist.m3u8
+https://edge6-mad.live.mmcdn.com/live-hls/amlst:unforgettable_s-sd-d4bda34f830db922fcbc8daeb26d34aed42b602b974fdb1e9244a8fc900c7461_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", URYKO_YOR
 https://edge7-ams.live.mmcdn.com/live-hls/amlst:uryko_yor-sd-052cc27914ec47a85686999c3a07afc8ec0d1dcfa65d3f7ba202436a2adb52be_trns_h264/playlist.m3u8
@@ -763,7 +649,7 @@ https://edge6-mad.live.mmcdn.com/live-hls/amlst:vaniaa_-sd-9b77f7e4e87f214dd2864
 https://edge19-mad.live.mmcdn.com/live-hls/amlst:vickyjackson_-sd-3d9343127f60f009a2504423de6c4cc4363710a7a249beb1510ca9827928f77e_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="ONLINE", VICTORIA_MONTEROO
-https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.victoria_monteroo.01KMVDZQK20JD04276Z5TS6YQY/llhls.m3u8
+https://edge3-mad.live.mmcdn.com/v1/edge/streams/origin.victoria_monteroo.01KMVGV7BGS6195R5S13MZJP7W/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", VICTORIAS_WORLD
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.victorias_world.01KMTZYFAVY5BNSG3641S96H89/llhls.m3u8
@@ -777,21 +663,15 @@ https://edge17-mad.live.mmcdn.com/live-hls/amlst:violeta_diazz-sd-fdb27292ec85fc
 #EXTINF:-1 group-title="ONLINE", VIOLETT_MAE
 https://edge20-mad.live.mmcdn.com/live-hls/amlst:violett_mae-sd-4a7699107b60cf0f24bf2affda85d66fda1cc84b0048b03b964fb7eaa03a95c9_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", WELCOME2PLEASURELAND
-https://edge20-mad.live.mmcdn.com/live-hls/amlst:welcome2pleasureland-sd-8f6cb6fc41c7bc915af348b8311f28f9e44385fe6214d75126f5c2bbba5ee1c7_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", WILD_SEX_X
 https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.wild_sex_x.01KMVEWK80SETJE5R22KJPGP34/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", WINK_WEIWEI
-https://edge11-mad.live.mmcdn.com/v1/edge/streams/origin.wink_weiwei.01KMVF118Z9XF8ZC7VC9BBCP0Q/llhls.m3u8
+https://edge10-mad.live.mmcdn.com/v1/edge/streams/origin.wink_weiwei.01KMVH2K10BCRGQ0DVEK9STXC2/llhls.m3u8
 
 #EXTINF:-1 group-title="ONLINE", XLARACROFTX
 https://edge20-mad.live.mmcdn.com/live-hls/amlst:xlaracroftx-sd-a5c61561e0bddcaa8c22e9d2019dd9e3dc7cc1170e06e9138c6ee7d6b14a552c_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="ONLINE", XLINDAMILFX
-https://edge29-ams.live.mmcdn.com/live-hls/amlst:xlindamilfx-sd-0d2600868d5f0197952dc202464bd3177196d4c6c6fc0afc3618d7e2b4ba2b21_trns_h264/playlist.m3u8
-
 #EXTINF:-1 group-title="ONLINE", ZENAPALLMER
-https://edge26-fra.live.mmcdn.com/live-hls/amlst:zenapallmer-sd-9850434625d359493d275fc6800d41fa74cbdff7404d010bc65531f4d6dc7ce3_trns_h264/playlist.m3u8
+https://edge23-mad.live.mmcdn.com/live-hls/amlst:zenapallmer-sd-9850434625d359493d275fc6800d41fa74cbdff7404d010bc65531f4d6dc7ce3_trns_h264/playlist.m3u8
 
